@@ -1,23 +1,15 @@
 ---
-title: "About"
+title: "Infra Wiss Blogs"
 image: profile.jpg
-about:
+page-layout: full
+title-block-banner: true
+about: 
   template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/pampel
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com/infomgnt/infrawissblogs/
 ---
 
-# Infra Wiss Blogs
+# Infra Wiss Blog
 
-Webseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt) des Instituts für Bibliotheks- und Informationswissenschaft der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de).
+Webseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs" (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt) des [Instituts für Bibliotheks- und Informationswissenschaf](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de).
 
 # Kontakt
 
@@ -25,8 +17,36 @@ infrawissblogs-ibi\@lists.hu-berlin.de
 
 # Anbieter
 
-Prof. Dr. Heinz Pampel \
-Humboldt-Universität zu Berlin \
+::: columns
+::: {.column width="50%"}
+### Prof. Dr. Heinz Pampel
+
+![](Heinz.jpeg){width="40mm"}
+
+E-Mail: heinz.pampel\@hu-berlin.de \
+[Lehrstuhl Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) \
 Institut für Bibliotheks- und Informationswissenschaft \
-Unter den Linden 6, 10099 Berlin \
-E-Mail: [heinz.pampel\@hu-berlin.de](https://heinzpampel.de/heinz.pampel@hu-berlin.de)
+Humboldt-Universität zu Berlin \
+Unter den Linden 6, 10099 Berlin\
+\
+[ORCiD](https://orcid.org/0000-0003-3334-2771) \
+[LinkedIn](https://www.linkedin.com/in/heinzpampel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3GTtIn%2BCSiu2t%2Bzlkv%2BjQA%3D%3D) \
+[Website](https://heinzpampel.de/) \
+[Twitter](https://twitter.com/pampel)
+:::
+
+::: {.column width="50%"}
+### Catharina Ochsner, M.A.
+
+![](Catharina.jpg){width="40mm"}
+
+E-Mail: catharina.ochsner\@hu-berlin.de \
+[Lehrstuhl Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) \
+Institut für Bibliotheks- und Informationswissenschaft \
+Humboldt-Universität zu Berlin \
+Unter den Linden 6, 10099 Berlin\
+ \
+[ORCiD](https://orcid.org/0009-0005-3885-3951) \
+[LinkedIn](www.linkedin.com/in/catharina-ochsner-86145817b)
+:::
+:::
