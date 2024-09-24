@@ -1,21 +1,30 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Infra Wiss Blogs"
-  site-url: https://infrawissblogs.github.io
+  site-url: https://infrawissblogs.org
   description: "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs"
   navbar:
     right:
-      - blog.qmd
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Über das Projekt
+        href: about.qmd
+      - text: Publikationen
+        href: publikationen.qmd
       - icon: github
         href: https://github.com/infomgnt/infrawissblogs/
-      - icon: twitter
-        href: https://twitter.com/pampel
+      - icon: rss
+        href: index.html
+  body-footer: "[Impressum](https://www.hu-berlin.de/de/hu/impressum)"
+  
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: lux
 
 editor: visual
-
