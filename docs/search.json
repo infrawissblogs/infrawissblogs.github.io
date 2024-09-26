@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Infra Wiss Blogs",
+    "section": "",
+    "text": "Infra Wiss Blog\nWebseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts “Kooperative Informationsinfrastruktur für wissenschaftliche Blogs” (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaf der Humboldt-Universität zu Berlin.\n\n\nKontakt\ninfrawissblogs-ibi@lists.hu-berlin.de\n\n\nAnbieter\n\n\n\nProf. Dr. Heinz Pampel\n\nE-Mail: heinz.pampel@hu-berlin.de \nLehrstuhl Information Management \nInstitut für Bibliotheks- und Informationswissenschaft \nHumboldt-Universität zu Berlin \nUnter den Linden 6, 10099 Berlin\n\nORCiD \nLinkedIn \nWebsite \nTwitter\n\n\n\nCatharina Ochsner, M.A.\n\nE-Mail: catharina.ochsner@hu-berlin.de \nLehrstuhl Information Management \nInstitut für Bibliotheks- und Informationswissenschaft \nHumboldt-Universität zu Berlin \nUnter den Linden 6, 10099 Berlin\n \nORCiD \nLinkedIn\n\n\n\n\n\n\nImpressum"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Infra Wiss Blog",
+    "section": "",
+    "text": "Willkommen\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items\n\nImpressum"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nImpressum"
+  },
+  {
+    "objectID": "posts/willkommen/index.html",
+    "href": "posts/willkommen/index.html",
+    "title": "Willkommen",
+    "section": "",
+    "text": "Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Managementdes Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.\n\n\n\nImpressum"
+  }
+]

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Infra Wiss Blogs</title>
+<link>https://infrawissblogs.org/blog.html</link>
+<atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Thu, 11 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Willkommen</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infrawissblogs.org/posts/willkommen/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl&nbsp;<a href="http://hu-berlin.de/infomgnt">Information Management</a>des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.</p>
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p> ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://infrawissblogs.org/posts/willkommen/</guid>
+  <pubDate>Thu, 11 Jul 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/willkommen/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://infrawissblogs.org/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://infrawissblogs.org/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p> ]]></description>
+  <category>news</category>
+  <guid>https://infrawissblogs.org/posts/welcome/</guid>
+  <pubDate>Mon, 08 Jul 2024 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
