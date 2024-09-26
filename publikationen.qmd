@@ -1,0 +1,13 @@
+---
+title: "Publikationen"
+page-layout: full
+title-block-banner: true
+---
+
+# Publikationen aus dem Projekt
+
+Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2024, September 20). Workshop 13: Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open Access Tage 2024 (OAT2024), Köln. Zenodo. [https://doi.org/10.5281/zenodo.13819866](https://doi.org/10.5281/zenodo.13819866)
+
+Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. [https://doi.org/10.5281/zenodo.13234482](https://doi.org/10.5281/zenodo.13234482)
+
+Ochsner, C. (2024, Juli 23). Infra Wiss Blogs: Projektvorstellung. 10. Seminar des Instituts für Bibliotheks- und Informationswissenschaft, Humbldt-Unversität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft. Zenodo. [https://doi.org/10.5281/zenodo.12799719](https://doi.org/10.5281/zenodo.12799719)

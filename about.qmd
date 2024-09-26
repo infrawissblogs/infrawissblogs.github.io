@@ -1,0 +1,25 @@
+---
+title: "Über das Projekt"
+page-layout: full
+title-block-banner: true
+---
+
+# Projektbeschreibung
+
+Ob als Plattform für die interne Wissenschaftskommunikation, als Tagebuch zur Dokumentation von Forschungsarbeiten im Sinne von Open Science oder als Schaufenster für die Vermittlung von wissenschaftlichen Erkenntnissen in die Breite - Blogs sind ein fester Bestandteil der digitalen Wissenschaftskommunikation.
+
+Herausforderungen für die Wissenschaftsblogs ergeben sich durch offene Fragen zur dauerhaften Sicherung der Blogposts sowie den häufig noch fehlenden Nachweis in bibliothekarischen Nachweisinstrumenten. Diese und weitere Themenfelder rund um die Sicherstellung der langfristigen Zugänglichkeit der Wissenschaftsblogs hemmen die Nachhaltigkeit dieses Publikationstyps.
+
+Das VIGO-Projekt Infra Wiss Blogs unterstützt bloggende Forschende und Einrichtungen der Informationsinfrastruktur bei der Entwicklung von Lösungsansätzen für die Sicherung der dauerhaften Zugänglichkeit von wissenschaftlichen Blogs in Deutschland. Zur Bearbeitung der Lösungsansätze organisiert und moderiert das Projekt einen Diskussionsprozess zur Schaffung eines verteilten Systems zur dauerhaften Speicherung und Zugänglichmachung von wissenschaftlichen Blogs. Aufgrund der Komplexität und des Umfangs des adressierten Desiderats - allein de.hypotheses hostet mehr als 400 Wissenschaftsblogs aus Deutschland - wird die Schaffung einer solchen Informationsinfrastruktur für die Forschung nur in Kooperation zu bewerkstelligen sein.
+
+Mit dem Vorhaben werden erstmals Kommunikationsforen zu diesem Themenfeld organisiert, die Wissenschaft und Infrastruktur zusammenbringen und so die Vernetzung der Stakeholder fördern. Auf diese Weise werden Abstimmungen zur Gestaltung einer verteilten, organisatorischen, technologischen und kooperativ getragenen Infrastruktur zur Sicherung der dauerhaften Zugänglichkeit von wissenschaftlichen Blogs organisiert. Dabei steht die Abstimmung von Akteuren, Prozessen und Standards im Fokus. Darüber hinaus wird das Vorhaben aus soziotechnischer Perspektive informationswissenschaftlich begleitet.
+
+# Projektantrag
+
+Eine gekürzte Fassung des Projektantrags ist hier veröffentlicht:
+
+Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. <https://doi.org/10.5281/zenodo.13234482>
+
+# Projektförderung
+
+Das Projekt Infra Wiss Blogs ist unter der Projektnummer [528958385](https://gepris.dfg.de/gepris/projekt/528958385) durch die Deutsche Forschungsgemeinschaft im Rahmen des Förderprogramms ["Verantwortung für Informations-infrastrukturen gemeinsam organisieren" (VIGO)](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/vigo) gefördert.

@@ -1,9 +1,0 @@
----
-title: "Willkommen"
-author: "Heinz Pampel"
-date: "2024-07-12"
-categories: [news, code, analysis]
-image: "image.jpg"
----
-
-Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt)des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.

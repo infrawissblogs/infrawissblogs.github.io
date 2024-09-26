@@ -1,1 +1,1 @@
-Sitemap: https://infrawissblogs.github.io/sitemap.xml
+Sitemap: https://infrawissblogs.org/sitemap.xml

@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Infra Wiss Blogs\nWebseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.\n\n\nKontakt\ninfrawissblogs-ibi@lists.hu-berlin.de\n\n\nAnbieter\nProf. Dr. Heinz Pampel \nHumboldt-Universität zu Berlin \nInstitut für Bibliotheks- und Informationswissenschaft \nUnter den Linden 6, 10099 Berlin \nE-Mail: heinz.pampel@hu-berlin.de"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Willkommen",
-    "section": "",
-    "text": "Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Managementdes Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Infra Wiss Blogs\nWebseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.\n\n\nKontakt\ninfrawissblogs-ibi@lists.hu-berlin.de\n\n\nAnbieter\nProf. Dr. Heinz Pampel \nHumboldt-Universität zu Berlin \nInstitut für Bibliotheks- und Informationswissenschaft \nUnter den Linden 6, 10099 Berlin \nE-Mail: heinz.pampel@hu-berlin.de"
-  },
-  {
-    "objectID": "posts/willkommen/index.html",
-    "href": "posts/willkommen/index.html",
-    "title": "Willkommen",
-    "section": "",
-    "text": "Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Managementdes Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin."
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs",
     "section": "",
-    "text": "Willkommen\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nWillkommen\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Willkommen\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/blog.html",
-    "href": "docs/blog.html",
-    "title": "Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Infra Wiss Blogs",
     "section": "",
-    "text": "Willkommen\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nHeinz Pampel\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "docs/posts/welcome/index.html",
-    "href": "docs/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Infra Wiss Blog\nWebseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts “Kooperative Informationsinfrastruktur für wissenschaftliche Blogs” (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.\n\n\nKontakt\ninfrawissblogs-ibi@lists.hu-berlin.de\n\n\nAnbieter\n\n\n\nProf. Dr. Heinz Pampel\n\nE-Mail: heinz.pampel@hu-berlin.de \nLehrstuhl Information Management \nInstitut für Bibliotheks- und Informationswissenschaft \nHumboldt-Universität zu Berlin \nUnter den Linden 6, 10099 Berlin\n\nORCiD \nLinkedIn \nWebsite \nTwitter\n\n\n\nCatharina Ochsner, M.A.\n\nE-Mail: catharina.ochsner@hu-berlin.de \nLehrstuhl Information Management \nInstitut für Bibliotheks- und Informationswissenschaft \nHumboldt-Universität zu Berlin \nUnter den Linden 6, 10099 Berlin\n \nORCiD \nLinkedIn"
   },
   {
     "objectID": "docs/index.html",
@@ -61,5 +19,40 @@
     "title": "About",
     "section": "",
     "text": "Infra Wiss Blogs\nWebseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.\n\n\nKontakt\ninfrawissblogs-ibi@lists.hu-berlin.de\n\n\nAnbieter\nProf. Dr. Heinz Pampel \nHumboldt-Universität zu Berlin \nInstitut für Bibliotheks- und Informationswissenschaft \nUnter den Linden 6, 10099 Berlin \nE-Mail: heinz.pampel@hu-berlin.de"
+  },
+  {
+    "objectID": "publikationen.html",
+    "href": "publikationen.html",
+    "title": "Publikationen",
+    "section": "",
+    "text": "Publikationen aus dem Projekt\nDalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2024, September 20). Workshop 13: Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open Access Tage 2024 (OAT2024), Köln. Zenodo. https://doi.org/10.5281/zenodo.13819866\nPampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. https://doi.org/10.5281/zenodo.13234482\nOchsner, C. (2024, Juli 23). Infra Wiss Blogs: Projektvorstellung. 10. Seminar des Instituts für Bibliotheks- und Informationswissenschaft, Humbldt-Unversität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft. Zenodo. https://doi.org/10.5281/zenodo.12799719"
+  },
+  {
+    "objectID": "posts/willkommen/index.html",
+    "href": "posts/willkommen/index.html",
+    "title": "Willkommen",
+    "section": "",
+    "text": "Hier ensteht das Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs) am Lehrstuhl Information Management des Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archiv",
+    "section": "",
+    "text": "Archiv\n\n\n\n\n\n\n\n\n\n\nWillkommen\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/blog.html",
+    "href": "docs/blog.html",
+    "title": "Infra Wiss Blogs - Kooperative Informationsinfrastruktur für wissenschaftliche Blogs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Über das Projekt",
+    "section": "",
+    "text": "Projektbeschreibung\nOb als Plattform für die interne Wissenschaftskommunikation, als Tagebuch zur Dokumentation von Forschungsarbeiten im Sinne von Open Science oder als Schaufenster für die Vermittlung von wissenschaftlichen Erkenntnissen in die Breite - Blogs sind ein fester Bestandteil der digitalen Wissenschaftskommunikation.\nHerausforderungen für die Wissenschaftsblogs ergeben sich durch offene Fragen zur dauerhaften Sicherung der Blogposts sowie den häufig noch fehlenden Nachweis in bibliothekarischen Nachweisinstrumenten. Diese und weitere Themenfelder rund um die Sicherstellung der langfristigen Zugänglichkeit der Wissenschaftsblogs hemmen die Nachhaltigkeit dieses Publikationstyps.\nDas VIGO-Projekt Infra Wiss Blogs unterstützt bloggende Forschende und Einrichtungen der Informationsinfrastruktur bei der Entwicklung von Lösungsansätzen für die Sicherung der dauerhaften Zugänglichkeit von wissenschaftlichen Blogs in Deutschland. Zur Bearbeitung der Lösungsansätze organisiert und moderiert das Projekt einen Diskussionsprozess zur Schaffung eines verteilten Systems zur dauerhaften Speicherung und Zugänglichmachung von wissenschaftlichen Blogs. Aufgrund der Komplexität und des Umfangs des adressierten Desiderats - allein de.hypotheses hostet mehr als 400 Wissenschaftsblogs aus Deutschland - wird die Schaffung einer solchen Informationsinfrastruktur für die Forschung nur in Kooperation zu bewerkstelligen sein.\nMit dem Vorhaben werden erstmals Kommunikationsforen zu diesem Themenfeld organisiert, die Wissenschaft und Infrastruktur zusammenbringen und so die Vernetzung der Stakeholder fördern. Auf diese Weise werden Abstimmungen zur Gestaltung einer verteilten, organisatorischen, technologischen und kooperativ getragenen Infrastruktur zur Sicherung der dauerhaften Zugänglichkeit von wissenschaftlichen Blogs organisiert. Dabei steht die Abstimmung von Akteuren, Prozessen und Standards im Fokus. Darüber hinaus wird das Vorhaben aus soziotechnischer Perspektive informationswissenschaftlich begleitet.\n\n\nProjektantrag\nEine gekürzte Fassung des Projektantrags ist hier veröffentlicht:\nPampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. https://doi.org/10.5281/zenodo.13234482\n\n\nProjektförderung\nDas Projekt Infra Wiss Blogs ist unter der Projektnummer 528958385 durch die Deutsche Forschungsgemeinschaft im Rahmen des Förderprogramms “Verantwortung für Informations-infrastrukturen gemeinsam organisieren” (VIGO) gefördert."
   }
 ]
