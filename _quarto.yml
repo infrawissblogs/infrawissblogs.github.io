@@ -25,6 +25,7 @@ website:
 format:
   html:
     theme:
-      light: lux
+      light: flatly
+      dark: darkly
 
 editor: visual
