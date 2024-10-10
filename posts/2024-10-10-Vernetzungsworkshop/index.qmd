@@ -19,16 +19,14 @@ Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 ein
 
 **Wann?** Mittwoch, 06.12.2024, 10:30-15:00 Uhr
 
-**Wo?** Robert-Koch-Forum des Einstein Center Digital Future (ECDF),
-
-Wilhelmstraße 67, 10117 Berlin
+**Wo?** Robert-Koch-Forum des Einstein Center Digital Future (ECDF), Wilhelmstraße 67, 10117 Berlin
 
 **Kontakt:** catharina.ochsner\@hu-berlin.de
 
 **Programm:**
 
 |             |                                                                               |
-|---------------|---------------------------------------------------------|
+|-------------|-------------------------------------------------------------------------------|
 | **Uhrzeit** | **Thema**                                                                     |
 | 10:30       | Begrüßung                                                                     |
 | 11:00       | Vorstellung bisheriger Ergebnisse der Kartierung deutscher Wissenschaftsblogs |
