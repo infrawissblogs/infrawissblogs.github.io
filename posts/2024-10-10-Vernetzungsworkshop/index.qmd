@@ -48,4 +48,4 @@ Wenn Sie Fragen haben, können Sie sich direkt an Catharina Ochsner via: [cathar
 
 Weitere Informationen zu unserem Lehrstuhl sind auf unserer [offiziellen Website](http://hu.berlin/infomgnt) sowie unserem [Lehrstuhlblog](https://infomgnt.org/) zu finden.
 
-This text – excluding quotes and otherwise labelled parts – is licensed under the\[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
