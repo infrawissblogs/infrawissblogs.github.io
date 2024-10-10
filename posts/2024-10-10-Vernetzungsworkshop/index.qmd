@@ -1,5 +1,5 @@
 ---
-title: "Beginn der Anmeldung zum Vernetzungsworkshop des Projekts 'Infra Wiss Blogs'"
+title: "Anmeldung zum Vernetzungsworkshop Infra Wiss Blogs"
 author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951 
@@ -11,13 +11,11 @@ author:
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2024-10-10"
 categories: [Lab Life, Research, Workshop]
-citation: 
-  url: https://doi.org/10.59350/7sbqk-ppj44   
 image: vernetzungsworkshop.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 einen ersten Vernetzungsworkshop für bloggenden Forschende und Mitarbeitende aus Infrastruktureinrichtungen. Ziel ist es, erste Erfahrungen der verschiedenen Stakeholder zu teilen und ihren Austausch zu fördern. Des Weiteren werden wir erste Ergebnisse unserer Bestandsaufnahme deutscher Wissenschaftsblogs präsentieren. 
+Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 einen ersten Vernetzungsworkshop für bloggenden Forschende und Mitarbeitende aus Infrastruktureinrichtungen. Ziel ist es, erste Erfahrungen der verschiedenen Stakeholder zu teilen und ihren Austausch zu fördern. Des Weiteren werden wir erste Ergebnisse unserer Bestandsaufnahme deutscher Wissenschaftsblogs präsentieren.
 
 **Wann?** Mittwoch, 06.12.2024, 10:30-15:00 Uhr
 
@@ -30,7 +28,7 @@ Wilhelmstraße 67, 10117 Berlin
 **Programm:**
 
 |             |                                                                               |
-|-----------------|-------------------------------------------------------|
+|-------------|-------------------------------------------------------------------------------|
 | **Uhrzeit** | **Thema**                                                                     |
 | 10:30       | Begrüßung                                                                     |
 | 11:00       | Vorstellung bisheriger Ergebnisse der Kartierung deutscher Wissenschaftsblogs |
@@ -44,10 +42,10 @@ Wilhelmstraße 67, 10117 Berlin
 | 15:00       | Zusammenfassen der Ergebnisse                                                 |
 | 15:15       | Verabschiedung                                                                |
 
-Der Workshop wird auf Deutscher stattfinden. Die \[Anmeldung\](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs) ist über die Website unseres Lehrstuhls möglich.
+Der Workshop wird auf Deutsch stattfinden. Die [Anmeldung](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs) ist über die Website unseres Lehrstuhls möglich.
 
-Wenn Sie Fragen haben, können Sie sich direkt an Catharina Ochsner via : [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de) melden. Es gilt das Motto „First come, first serves“. Wir haben Platz für etwa 20 Personen. Wir freuen uns auf Ihre Teilnahme. Anmeldungen sind bis zum 20. Oktober 2024 möglich.
+Wenn Sie Fragen haben, können Sie sich direkt an Catharina Ochsner via: [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de) melden. Es gilt das Motto „First come, first serves“. Wir haben Platz für etwa 20 Personen. Wir freuen uns auf Ihre Teilnahme. Anmeldungen sind bis zum 20. Oktober 2024 möglich.
 
-Weitere Informationen zu unserem Lehrstuhl sind auf unserer \[offiziellen Website\](<http://hu.berlin/infomgnt>) sowie unserem \[Lehrstuhlblog\](https://infomgnt.org/) zu finden.
+Weitere Informationen zu unserem Lehrstuhl sind auf unserer [offiziellen Website](<http://hu.berlin/infomgnt>) sowie unserem [Lehrstuhlblog](https://infomgnt.org/) zu finden.
 
-This text – excluding quotes and otherwise labelled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>). 
+This text – excluding quotes and otherwise labelled parts – is licensed under the\[CC BY 4.0 DEED](<https://creativecommons.org/licenses/by/4.0/deed.de>).
