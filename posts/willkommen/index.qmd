@@ -2,7 +2,7 @@
 title: "Willkommen"
 author: "Heinz Pampel"
 date: "2024-07-12"
-categories: [news, code, analysis]
+categories: [news, research, lab life]
 image: "image.jpg"
 ---
 
