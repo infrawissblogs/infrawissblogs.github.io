@@ -1,0 +1,67 @@
+---
+title: "Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951 
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+    affiliation-url: http://hu-berlin.de/infomgnt 
+  - name: Evin Dalkilic
+    url: https://verfassungsblog.de/author/evin-dalkilic/
+    affiliation: Verfassungsblog
+    affiliation-url: https://verfassungsblog.de/
+  - name: Martin Fenner
+    url: https://front-matter.io/team
+    orcid: 0000-0003-1419-2405
+    affiliation: Front Matter
+    affiliation-url: https://front-matter.io/
+  - name: Mareike König
+    url: https://www.dhi-paris.fr/institut/team/wissenschaft/mareike-koenig.html
+    orcid: 0000-0002-8189-8574
+    affiliation: Deutsches Historisches Institut Paris
+    affiliation-url: https://www.dhi-paris.fr/de/home.html
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Ulrike Stockhausen
+    orcid: 0000-0002-8016-6902
+    affiliation: Max Weber Stiftung
+    affiliation-url: https://www.maxweberstiftung.de/startseite.html
+date: "2024-10-17"
+categories: [Lab Life, Research, Workshop]
+image: OAT.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: /Users/catharinaochsner/Documents/infrawissblogsfinal/infrawissblog/posts/2024-10-16-oatage/references_oatage24.bib
+---
+
+Wissenschaftsblogs können aktuelle Forschungsinhalte schnell und über die eigene Fachcommunity hinaus verbreiten und zur Diskussion stellen. Die offene Kommunikation ohne Paywalls erhöht die Sichtbarkeit von Wissenschaft und ihren Inhalten. Forschende haben daher ebenso wie Informationsinfrastruktur-- und Gedächtniseinrichtungen ein Interesse daran, Wissenschaftsblogs als Open-Access-Publikationsformat zu unterstützen. Was aber können die einzelnen Akteure tun, um Wissenschaftsblogs in diesem Sinne zu stärken und weiterzuentwickeln und wie ordnen sich Wissenschaftsblogs in aktuelle Diskussionen über die wissenschaftsgeleitete Weiterentwicklung der Open-Access-Transformation ein (Pampel et al., 2024)?
+
+Im Workshop „Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren“ im Rahmen der Open-Access.Tage 2024 wurde die Rolle von Blogs für die Wissenschaftskommunikation anhand von drei Thesen diskutiert (Open-Acces-Tage, 2024).
+
+Der Workshop wurde organisiert und moderiert von Evin Dalkilic vom [Verfassungsblog](https://verfassungsblog.de/), Martin Fenner von [Front Matter](https://front-matter.io/), Mareike König vom [Deutschen Historischen Institut Paris](https://www.dhi-paris.fr/home.html) (leider verhindert), Catharina Ochsner vom [Institut für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) (IBI) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de) (HU), Heinz Pampel, ebenfalls vom Institut für Bibliotheks- und Informationswissenschaft der HU sowie dem [Helmholtz Open Science Office](https://os.helmholtz.de/) und Ulrike Stockhausen von der [Max Weber Stiftung](https://www.maxweberstiftung.de/startseite.html)/\[de.hypotheses\] (https://de.hypotheses.org/). Der Workshop richtete sich an Wissenschaftler:innen, Mitarbeiter:innen von Infrastruktureinrichtungen sowie an Professionals im Bereich Publikationsdienste, die digitale Wissenschaftskommunikation ermöglichen und betreiben. Ziele des Workshops waren: ein tieferes Verständnis für die Bedeutung von wissenschaftlichen Blogs als Instrument der Wissenschaftskommunikation zu schaffen, die Anerkennung ihres Beitrags zur Förderung einer offenen und nachhaltigen Wissenschaftskultur zu stärken und anhand der Erfahrungen der Teilnehmenden gemeinsam die Bedarfe für die Weiterentwicklung wissenschaftsgeleiteter Open-Access-Publikationsinfrastrukturen zu ermitteln (Open-Access-Tage, 2024).
+
+Die Organisator:innen stellten jeweils eine These zu den folgenden drei Themenbereichen zur Diskussion: (1) workflowbezogene Basisdienste, (2) Vernetzungsdienstleistungen und (3) Reputationsmanagement.
+
+**These 1:** **Workflowbezogene Basisdienste**
+
+*„Wissenschaftsblogs müssen die gleichen Basisdienste wie andere wissenschaftliche Publikationsformen bereitstellen: u.a. PID-Vergabe mit relevanten Metadaten, Indizierung in relevanten Katalogen, Bereitstellung der Volltexte in verschiedenen Formaten sowie Langzeitarchivierung.“*
+
+Ein zentrales Thema in der Diskussion zu These 1 war die Frage nach der Definition von Wissenschaftsblogs: Welche Formate und Inhalte kennzeichnen „Wissenschaftsblogs“ aus? Welche Bestandteile sollten langfristig archiviert werden? Hier stellt sich ebenfalls die Frage, ob Autor:innen überhaupt an einer dauerhaften Speicherung interessiert sind oder ob das flüchtige, dynamische Format des Blogs im Vordergrund steht. Da der Stellenwert von Blogs stark je nach Fachrichtung variiert, ergeben sich auch unterschiedliche Anforderungen an deren Archivierung. Zudem wirft das Format die Frage auf, ob Diskussionen und Kommentare, die wichtige Ergänzungen zu den Blogposts bilden, archiviert werden sollen und können. Die Teilnehmenden betonten hier, dass die Verantwortung, Blogs und ihre Inhalte auffindbar, sichtbar und langfristig zugänglich zu machen, nicht allein bei den Bloggenden liegt, sondern auch bei Informationsinfrastruktureinrichtungen.
+
+**These 2: Vernetzungsdienstleistungen**
+
+*„Wissenschaftsblogs sind gelebte Netzwerke und zeigen Forschung von ihrer besten Seite: offen, transparent, seriös.“*
+
+Auch hier diskutierten die Teilnehmenden Fragen der Definition und Funktion von Wissenschaftsblogs sowie der Qualitätssicherung der Inhalte, da Wissenschaftsblogs zu sehr unterschiedlichen Zwecken und mit verschiedenen Ansprüchen genutzt werden – während manche sich beispielsweise eigene Redaktionsgremien geben, verorten andere ihren Auftrag eher in der populärwissenschaftlicher ausgerichteten Wissenschaftskommunikation. In der Diskussion wurde deutlich, dass Qualitätssicherung auf Wissenschaftsblogs vor allem durch Offenheit und Transparenz (z.B. durch Versionierungen und Kommentare) ermöglicht werden kann. Die Anknüpfung vieler Blogs an Forschungsinstitute oder Drittmittelprojekte schafft ebenfalls Transparenz und Qualitätssicherung. Die Möglichkeit, niedrigschwellig zu kommentieren und Inhalte zu diskutieren, trägt ebenfalls wesentlich zur Qualitätssicherung bei (Stichwort Open Peer Review). Bei der Qualitätssicherung von Wissenschaftsblogs im Vergleich zur traditionellen wissenschaftlichen Publikationslandschaft wurde zudem die Sorge geäußert, dass traditionelle Verlagsstrukturen - wie zum Beispiel Gatekeeping durch Redaktionen - in die Bloglandschaft übernommen werden könnten, obwohl Blogs gerade ein offeneres Format der Wissenschaftskommunikation bieten sollten.
+
+**These 3:** **Reputationsmanagement**
+
+*„Wissenschaftsblogs als niedrigschwelliges, genuin frei zugängliches und digitales Publikationsformat eignen sich besonders gut zum Reputationsaufbau.“*
+
+Auch im Rahmen der dritten These wurden Fragen der Qualitätssicherung, Vertrauenswürdigkeit und Wissenschaftlichkeit diskutiert. Die Antworten darauf hängen jedoch auch vom Zielpublikum des Blogs ab. Soll die interessierte Öffentlichkeit oder die wissenschaftliche Fachwelt angesprochen werden? Das primäre Zielpublikum beeinflusst maßgeblich, wie Forschung kommuniziert wird und von wem Anerkennung und Reputation erwartet werden. Beobachtet wurde ebenfalls, dass die Reputation von Blogbeiträgen vom jeweiligen Blog und der Fachdisziplin abhängig ist. Als Mittel zur Qualitätssicherung wurden Open Peer Reviews, z.B. durch Kommentarspalten genannt, aber auch in Erwägung gezogen, sich an bereits existierenden Verfahren zur Qualitätssicherung von Zeitschriften oder anderen journalistischen Outlets zu orientieren. Gleichzeitig bieten Blogs auch die Möglichkeit, sich von traditionellen Verlagen zu lösen und sich als unabhängiges, wissenschaftliches Publikationsformat zu etablieren. Insbesondere ermöglichen Blogs, neue Ideen zu entwickeln und auszutesten. Sie dienen so nicht selten als Ausgangspunkt für umfangreichere Publikationen wie Zeitschriftenartikel – in die dann auch die Diskussionen auf dem Blog einfließen.
+
+**Fazit**
+
+Wissenschaftsblogs bieten ein vielseitiges Format an, um wissenschaftliche Gedanken und Forschungsergebnisse frühzeitig, flexibel und niedrigschwellig zu präsentieren und zur Diskussion zu stellen. Sie können als unabhängige Publikationsplattform zur Wissenschaftskommunikation dienen. Obwohl Qualität und Reputation je nach Fachdisziplin und Blog variieren können, haben Wissenschaftsblogs das Potenzial, sich als seriöses, offenes und transparentes Publikationsmedium zu etablieren. Qualitätssicherung, Archivierung und Anerkennung stellen für sie eine Herausforderung dar, die sich trotz Überschneidungen im Einzelnen von traditionellen Publikationen unterscheidet. Zudem stellen sich schon ganz grundlegende Fragen, etwa nach der Definition von Wissenschaftsblogs, also ihren formalen, technischen und Inhaltlichen Anforderungen, oder ihrer Funktion als Medium der Wissenschaftskommunikation.
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
