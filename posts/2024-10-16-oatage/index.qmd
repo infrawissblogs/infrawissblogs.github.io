@@ -31,7 +31,7 @@ date: "2024-10-17"
 categories: [Lab Life, Research, Workshop]
 image: OAT.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
-bibliography: /Users/catharinaochsner/Documents/infrawissblogsfinal/infrawissblog/posts/2024-10-16-oatage/references_oatage24.bib
+bibliography: references_oatage.bib
 ---
 
 Wissenschaftsblogs können aktuelle Forschungsinhalte schnell und über die eigene Fachcommunity hinaus verbreiten und zur Diskussion stellen. Die offene Kommunikation ohne Paywalls erhöht die Sichtbarkeit von Wissenschaft und ihren Inhalten. Forschende haben daher ebenso wie Informationsinfrastruktur-- und Gedächtniseinrichtungen ein Interesse daran, Wissenschaftsblogs als Open-Access-Publikationsformat zu unterstützen. Was aber können die einzelnen Akteure tun, um Wissenschaftsblogs in diesem Sinne zu stärken und weiterzuentwickeln und wie ordnen sich Wissenschaftsblogs in aktuelle Diskussionen über die wissenschaftsgeleitete Weiterentwicklung der Open-Access-Transformation ein (Pampel et al., 2024)?
