@@ -19,7 +19,7 @@ website:
       - icon: github
         href: https://github.com/infomgnt/infrawissblogs/
       - icon: rss
-        href: index.html
+        href: blog.xml
   body-footer: "[Impressum](https://www.hu-berlin.de/de/hu/impressum)"
   
 format:
