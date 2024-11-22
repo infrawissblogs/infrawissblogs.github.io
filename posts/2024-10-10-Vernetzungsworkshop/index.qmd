@@ -26,7 +26,7 @@ Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 ein
 **Programm:**
 
 |             |                                                                               |
-|-----------------|-------------------------------------------------------|
+|-------------|-------------------------------------------------------------------------------|
 | **Uhrzeit** | **Thema**                                                                     |
 | 10:30       | Begrüßung                                                                     |
 | 11:00       | Vorstellung bisheriger Ergebnisse der Kartierung deutscher Wissenschaftsblogs |
