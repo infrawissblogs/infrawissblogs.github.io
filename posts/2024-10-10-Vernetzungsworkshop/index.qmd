@@ -17,7 +17,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 einen ersten Vernetzungsworkshop für bloggenden Forschende und Mitarbeitende aus Infrastruktureinrichtungen. Ziel ist es, erste Erfahrungen der verschiedenen Stakeholder zu teilen und ihren Austausch zu fördern. Des Weiteren werden wir erste Ergebnisse unserer Bestandsaufnahme deutscher Wissenschaftsblogs präsentieren.
 
-**Wann?** Mittwoch, 06.12.2024, 10:30-15:00 Uhr
+**Wann?** Freitag, 06.12.2024, 10:30-15:00 Uhr
 
 **Wo?** Robert-Koch-Forum des Einstein Center Digital Future (ECDF), Wilhelmstraße 67, 10117 Berlin
 
@@ -26,7 +26,7 @@ Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 ein
 **Programm:**
 
 |             |                                                                               |
-|---------------|---------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **Uhrzeit** | **Thema**                                                                     |
 | 10:30       | Begrüßung                                                                     |
 | 11:00       | Vorstellung bisheriger Ergebnisse der Kartierung deutscher Wissenschaftsblogs |
