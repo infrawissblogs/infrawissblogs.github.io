@@ -4,7 +4,11 @@ author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951 
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
-    affiliation-url: http://hu-berlin.de/infomgnt 
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: http://hu-berlin.de/infomgnt
   - name: Evin Dalkilic
     url: https://verfassungsblog.de/author/evin-dalkilic/
     affiliation: Verfassungsblog
@@ -19,10 +23,6 @@ author:
     orcid: 0000-0002-8189-8574
     affiliation: Deutsches Historisches Institut Paris
     affiliation-url: https://www.dhi-paris.fr/de/home.html
-  - name: Heinz Pampel
-    orcid: 0000-0003-3334-2771
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
-    affiliation-url: http://hu-berlin.de/infomgnt
   - name: Ulrike Stockhausen
     orcid: 0000-0002-8016-6902
     affiliation: Max Weber Stiftung
