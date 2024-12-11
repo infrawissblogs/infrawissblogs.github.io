@@ -7,7 +7,7 @@ about:
   template: jolla
 ---
 
-# Infra Wiss Blog
+# Infra Wiss Blogs
 
 Webseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs" (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt) des [Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de).
 
