@@ -1,23 +1,23 @@
 ---
 title: "Ausblicke auf die zukünftige Infrastruktur für wissenschaftliche Blogs in Deutschland"
 author:
- - name: Catharina Ochsner
-      orcid: 0009-0005-3885-3951
-      affiliation: Humboldt-Universität zu Berlin
-      affiliation-url: http://hu-berlin.de/infomgnt
- - name: Jonas Höfting
-      orcid: 0009-0003-4466-1775
-      affiliation: Humboldt-Universität zu Berlin
-      affiliation-url: http://hu-berlin.de/infomgnt
- - name: Heinz Pampel
-      url: https://heinzpampel.de/
-      orcid: 0000-0003-3334-2771
-      affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
-      affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Jonas Höfting
+    orcid: 0009-0003-4466-1775
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Heinz Pampel
+    url: https://heinzpampel.de/
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
+    affiliation-url: http://hu-berlin.de/infomgnt
 date: "2025-01-10"
 categories: [Lab life, Research, Workshop]
 image: IMG_5273.jpg
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: true
 bibliography: references_vernetzungsworkshop.bib
 ---
 
