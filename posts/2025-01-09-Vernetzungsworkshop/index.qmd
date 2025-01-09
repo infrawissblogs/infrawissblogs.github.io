@@ -76,5 +76,3 @@ Eine englische Version dieses Blogeintrags steht auf unserem Lehrstuhlblog verf�
 Weitere Informationen über die Forschungsgruppe finden Sie auf unserer \[offiziellen Website\](http://hu.berlin/infomgnt).
 
 This text – excluding quotes and otherwise labelled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
-
-# References
