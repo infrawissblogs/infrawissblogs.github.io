@@ -1,0 +1,78 @@
+---
+title: "Ausblicke auf die zukünftige Infrastruktur für wissenschaftliche Blogs in Deutschland"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951 
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Jonas Höfting
+	  orcid: 0009-0003-4466-1775
+	  affiliation: Humboldt-Universität zu Berlin
+	  Affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  - name: Heinz Pampel
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+date: "2025-01-10"
+categories: [Lab Life, Research, Workshop]
+image: IMG_5273.jpg
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Am 6. Dezember 2024 haben wir den ersten Workshop unseres von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts \[Infra Wiss Blogs\](<https://infrawissblogs.org/>) veranstaltet. Ziel des Workshops war es, wissenschaftliche Blogger:innen und Expert:innen aus Informationsinfrastruktureinrichtungen zusammenzubringen, um Erfahrungen, Wünsche und Herausforderungen rund um wissenschaftliche Blogs und deren langfristige Zugänglichkeit auszutauschen.
+
+Im Folgenden geben wir einen kurzen Überblick über den Workshop, die Vorträge und Diskussionen und skizzieren, wie wir unsere Arbeit nach den Ergebnissen des Workshops fortsetzen werden. Zu Beginn der Veranstaltung präsentierten wir die ersten Ergebnisse unserer Bestandsaufnahme deutscher Wissenschaftsblogs, die wir im Rahmen des Infra Wiss Blogs-Projekts durchgeführt haben. (Eine Publikation zu den Ergebnissen ist in Arbeit.) Anschließend wurde der Workshop durch mehrere Vorträge zum Thema wissenschaftliche Blogs und deren langfristige Zugänglichkeit bereichert.
+
+\[Henning Krause\](https://blogs.helmholtz.de/augenspiegel/author/henning/) von der Helmholtz-Gemeinschaft begann mit einem Überblick über die Helmholtz-Blogs, das Blogportal der größten deutschen Forschungsorganisation. Anhand des Beispiels Wissenschaftsblogs sprach er über Herausforderungen und Chancen der Wissenschaftskommunikation.
+
+Auf diesen Vortrag folgte eine Präsentation von Martin Fenner von \[Front Matter\](<https://front-matter.io/>) der die langfristige Zugänglichkeit von wissenschaftlichen Blogs thematisierte. Martin Fenner stellte das Archiv des Rogue Scholar Blogs vor \[Rogue Scholar blog archive\](https://rogue-scholar.org/), das derzeit XX Blogs archiviert. 
+
+Im Anschluss an diese Präsentationen folgten Beiträge aus der Praxis von \[Charmaine Voigt\](<https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt>) vom GESIS - Leibniz-Institut für Sozialwissenschaften und von \[Britta Woldering\](<https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html>) von der Deutschen Nationalbibliothek (DNB). Charmaine Voigt präsentierte die Ergebnisse einer Umfrage zu Wissenschaftsblogs und Podcasts an wissenschaftlichen Einrichtungen in Deutschland im Rahmen des Projekts Wi⁴impact Projekts. Britta Woldering stellte die Arbeit der DNB im Bereich der Webarchivierung vor und beschrieb den Ansatz der DNB im Umgang mit Blogs für die dauerhafte Zugänglichkeit von digitalen Inhalten.
+
+Die verfügbaren Präsentationen der Vortragenden wurden auf Zenodo veröffentlicht:
+
+Fenner, M. (2024, December 6). Ansätze zur Sicherung der dauerhaften Zugänglichkeit von Wissenschaftsblogs. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin.[\[https://doi.org/10.5281/zenodo.14354060\](https://doi.org/10.5281/zenodo.14354060](https://doi.org/10.5281/zenodo.14354060))
+
+Voigt, C., & Kuhle, B. (2024, December 6). Wi4impact: Befragung von Produzierenden deutscher Wissenschaftsblogs (und -podcasts). Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin.[\[https://doi.org/10.5281/zenodo.14354474\](https://doi.org/10.5281/zenodo.14354474](https://doi.org/10.5281/zenodo.14354474))
+
+Woldering, B. (2024, December 6). Webarchivierung an der deutschen Nationalbibliothek. Infra Wiss Blogs Vernetzungsworkshop 2024, Berlin. \[https://doi.org/10.5281/zenodo.14355206\](https://doi.org/10.5281/zenodo.14355206)
+
+Die Präsentationen und die Ergebnisse der Bestandsaufnahme der deutschen Wissenschaftsblogs wurden anschließend von den Workshop-Organisator:innen, den Teilnehmenden und den Vortragenden diskutiert. Um die Diskussion zu strukturieren, hatten wir eine Reihe von Fragen zum Thema vorbereitet, z.B. „Wie können Blogger:innen, Bibliotheken und Archive zusammenarbeiten, um standardisierte Metadaten und Verfahren für die langfristige Zugänglichkeit von wissenschaftlichen Blogs zu schaffen?“. Das Hauptthema der Diskussion war, wie bloggende Forscher:innen und Infrastruktureinrichtungen zusammenarbeiten können, um die langfristige Zugänglichkeit von wissenschaftlichen Blogs zu gewährleisten.
+
+Die folgenden Herausforderungen wurden in Bezug auf die Standardisierung wissenschaftlicher Blogs und ihre langfristige Zugänglichkeit festgestellt:
+
+1.  Unzureichende Bereitstellung von Metadaten.
+
+2.  Unzureichende Lizenzinformationen.
+
+3.  Dynamische Inhalte, wie Bilder oder Videos, Kommentare, Link Rot stellen technische und rechtliche Herausforderungen dar.
+
+4.  Mangelndes Wissen der Blogger:innen über die technischen und rechtlichen Anforderungen zur Sicherstellung der langfristigen Zugänglichkeit.
+
+5.  Blogs und weitere Aktivitäten des Wissenstransfers und der Wissenschaftskommunikation werden im wissenschaftlichen Reputationssystem und der Bewertung von Forschungsleistung meist nicht angemessen anerkannt.
+
+In der Diskussion wurden die folgenden Strategien zur Verbesserung der langfristigen Zugänglichkeit von wissenschaftlichen Blogs vorgeschlagen:
+
+1.  (Wieder-)Verwendung standardisierter Formate (wie XML oder JSON), die bereits von Blogs für die Langzeitarchivierung verwendet werden.
+
+2.  Aufnahme von Lizenzinformationen in Metadaten. Empfohlen wird die Verwendung der CC BY-Lizenz.
+
+3.  Rechtliche Herausforderungen bei der Archivierung von Kommentaren könnten durch rechtliche Hinweise gelöst werden.
+
+4.  Bibliotheken als Bildungseinrichtungen können dabei helfen, Blogger:innen über die Anforderungen an Blogs aufzuklären.
+
+5.  Universitäten und andere Organisationen, die Forschung ermöglichen, können Blogger:innen unterstützen, indem sie Blogplattformen anbieten, bestehende pflegen und Bloggen als Teil des Wissenstransfers und der Wissenschaftskommunikation anerkennen. 
+
+Die Diskussion verdeutlichte die Vielfalt der Akteure. Alle Teilnehmende waren sich dennoch einig, dass eine stärkere Vernetzung und Zusammenarbeit zu diesem Thema erforderlich ist. Zudem betonten die Teilnehmenden auch die Notwendigkeit der Unterstützung von Universitäten und Forschungseinrichtungen sowie von Fördereinrichtungen für ihre bloggenden Forscher:innen.
+
+Wir danken allen Vortragenden und Teilnehmenden für ihre Beiträge und die offenen Diskussionen. Aufbauend auf den Ergebnissen der Bestandsaufnahme der deutschen Wissenschaftsblogs werden wir Expert:inneninterviews mit bloggenden Forscher:innen durchführen, um die infrastrukturellen Herausforderungen von Wissenschaftsblogs zu untersuchen und mögliche Lösungen zu erarbeiten.
+
+Des Weiteren arbeiten wir derzeit an der Veröffentlichung der Ergebnisse der Bestandsaufnahme deutscher Wissenschaftsblogs. Wir werden die Veröffentlichung des Artikels über unsere \[Mailingliste\]([infra-wiss-blogs\@listserv.dfn.de](mailto:infra-wiss-blogs@listserv.dfn.de)) kommunizieren. Die Anmeldung zur Liste ist \[hier\](<https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs>) möglich.
+
+Eine englische Version dieses Blogeintrags steht auf unserem Lehrstuhlblog verfügbar und kann \[hier\](https://infomgnt.org/) gefunden werden.
+
+Weitere Informationen über die Forschungsgruppe finden Sie auf unserer \[offiziellen Website\](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
+
+# References
