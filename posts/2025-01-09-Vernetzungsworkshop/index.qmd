@@ -1,22 +1,24 @@
 ---
 title: "Ausblicke auf die zukünftige Infrastruktur für wissenschaftliche Blogs in Deutschland"
-author:
+Author:
   - name: Catharina Ochsner
-    orcid: 0009-0005-3885-3951 
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
-    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+	orcid: 0009-0005-3885-3951
+	affiliation: Humboldt-Universität zu Berlin
+	Affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Jonas Höfting
-	  orcid: 0009-0003-4466-1775
-	  affiliation: Humboldt-Universität zu Berlin
-	  Affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+	orcid: 0009-0003-4466-1775
+	affiliation: Humboldt-Universität zu Berlin
+	Affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Heinz Pampel
-    orcid: 0000-0003-3334-2771
-    affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
-    affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+	url: https://heinzpampel.de/
+	orcid: 0000-0003-3334-2771
+	affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
+	Affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
 date: "2025-01-10"
-categories: [Lab Life, Research, Workshop]
-image: IMG_5273.jpg
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+Categories: [lab life, research, workshop]
+image: vernetzungsworkshop.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references_vernetzungsworkshop.bib
 ---
 
 Am 6. Dezember 2024 haben wir den ersten Workshop unseres von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts \[Infra Wiss Blogs\](<https://infrawissblogs.org/>) veranstaltet. Ziel des Workshops war es, wissenschaftliche Blogger:innen und Expert:innen aus Informationsinfrastruktureinrichtungen zusammenzubringen, um Erfahrungen, Wünsche und Herausforderungen rund um wissenschaftliche Blogs und deren langfristige Zugänglichkeit auszutauschen.
