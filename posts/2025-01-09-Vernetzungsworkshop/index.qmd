@@ -17,7 +17,7 @@ Author:
 date: "2025-01-10"
 Categories: [lab life, research, workshop]
 image: vernetzungsworkshop.png
-draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_vernetzungsworkshop.bib
 ---
 
