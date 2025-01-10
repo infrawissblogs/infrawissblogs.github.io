@@ -17,11 +17,11 @@ author:
 date: "2025-01-10"
 categories: [Lab life, Research, Workshop]
 image: IMG_5273.jpg
-draft: true
+draft: false
 bibliography: references_vernetzungsworkshop.bib
 ---
 
-Am 6. Dezember 2024 haben wir den ersten Workshop unseres von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts \[Infra Wiss Blogs\](<https://infrawissblogs.org/>) veranstaltet. Ziel des Workshops war es, wissenschaftliche Blogger:innen und Expert:innen aus Informationsinfrastruktureinrichtungen zusammenzubringen, um Erfahrungen, Wünsche und Herausforderungen rund um wissenschaftliche Blogs und deren langfristige Zugänglichkeit auszutauschen.
+Am 6. Dezember 2024 haben wir den ersten Workshop unseres von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts \[Infra Wiss Blogs\](<https://infrawissblogs.org/>) veranstaltet (Ochsner and Pampel, 2024). Ziel des Workshops war es, wissenschaftliche Blogger:innen und Expert:innen aus Informationsinfrastruktureinrichtungen zusammenzubringen, um Erfahrungen, Wünsche und Herausforderungen rund um wissenschaftliche Blogs und deren langfristige Zugänglichkeit auszutauschen.
 
 Im Folgenden geben wir einen kurzen Überblick über den Workshop, die Vorträge und Diskussionen und skizzieren, wie wir unsere Arbeit nach den Ergebnissen des Workshops fortsetzen werden. Zu Beginn der Veranstaltung präsentierten wir die ersten Ergebnisse unserer Bestandsaufnahme deutscher Wissenschaftsblogs, die wir im Rahmen des Infra Wiss Blogs-Projekts durchgeführt haben. (Eine Publikation zu den Ergebnissen ist in Arbeit.) Anschließend wurde der Workshop durch mehrere Vorträge zum Thema wissenschaftliche Blogs und deren langfristige Zugänglichkeit bereichert.
 
@@ -76,3 +76,8 @@ Eine englische Version dieses Blogeintrags steht auf unserem Lehrstuhlblog verf�
 Weitere Informationen über die Forschungsgruppe finden Sie auf unserer \[offiziellen Website\](http://hu.berlin/infomgnt).
 
 This text – excluding quotes and otherwise labelled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
+
+---
+nocite: |
+  @*
+---
