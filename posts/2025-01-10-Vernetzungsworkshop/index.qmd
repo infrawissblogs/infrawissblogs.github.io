@@ -69,7 +69,7 @@ Die Diskussion verdeutlichte die Vielfalt der Akteure. Alle Teilnehmenden waren 
 
 Wir danken allen Vortragenden und Teilnehmenden für ihre Beiträge und die offenen Diskussionen. Aufbauend auf den Ergebnissen der Bestandsaufnahme der deutschen Wissenschaftsblogs werden wir Expert:inneninterviews mit bloggenden Forscher:innen durchführen, um die infrastrukturellen Herausforderungen von Wissenschaftsblogs zu untersuchen und mögliche Lösungen zu erarbeiten.
 
-Des Weiteren arbeiten wir derzeit an der Veröffentlichung der Ergebnisse der Bestandsaufnahme deutscher Wissenschaftsblogs. Wir werden die Veröffentlichung des Artikels über unsere [Mailingliste](infra-wiss-blogs@listserv.dfn.de) kommunizieren. Die Anmeldung zur Liste ist [hier](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs) möglich. Eine englische Version dieses Blogeintrags steht auf unserem Lehrstuhlblog verfügbar und kann [hier](https://infomgnt.org/) gefunden werden [@ochsner_research_2025].
+Des Weiteren arbeiten wir derzeit an der Veröffentlichung der Ergebnisse der Bestandsaufnahme deutscher Wissenschaftsblogs. Wir werden die Veröffentlichung des Artikels über unsere [Mailingliste](infra-wiss-blogs@listserv.dfn.de) kommunizieren. Die Anmeldung zur Liste ist [hier](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs) möglich. Eine englische Version dieses Blogeintrags steht auf unserem Lehrstuhlblog verfügbar und kann [hier](https://doi.org/10.59350/4fc41-6n753) gefunden werden [@ochsner_research_2025].
 
 Weitere Informationen über die Forschungsgruppe finden Sie auf unserer [offiziellen Website](http://hu.berlin/infomgnt).
 
