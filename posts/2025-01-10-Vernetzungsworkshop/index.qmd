@@ -15,7 +15,7 @@ author:
     affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2025-01-10"
-categories: [Lab life, Research, Workshop]
+categories: [Lab Life, Research, Workshop]
 image: IMG_5273.jpg
 draft: false
 bibliography: references_vernetzungsworkshop.bib
