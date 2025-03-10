@@ -10,7 +10,7 @@ author:
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt
 date: "2024-10-10"
-categories: [Lab Life, Research, Workshop]
+categories: [Lab Life, Research]
 image: vernetzungsworkshop.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
@@ -26,7 +26,7 @@ Im Rahmen des Projekts “Infra Wiss Blogs” veranstalten wir am 06.12.2024 ein
 **Programm:**
 
 |             |                                                                               |
-|-------------|-------------------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | **Uhrzeit** | **Thema**                                                                     |
 | 10:30       | Begrüßung                                                                     |
 | 11:00       | Vorstellung bisheriger Ergebnisse der Kartierung deutscher Wissenschaftsblogs |

@@ -28,7 +28,7 @@ author:
     affiliation: Max Weber Stiftung
     affiliation-url: https://www.maxweberstiftung.de/startseite.html
 date: "2024-10-17"
-categories: [Lab Life, Research, Workshop]
+categories: [Lab Life, Research]
 image: OAT.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_oatage.bib
