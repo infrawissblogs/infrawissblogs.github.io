@@ -1,0 +1,38 @@
+---
+title: "Infra Wiss Blogs auf dem BID Kongress 2025"
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Heinz Pampel
+    url: https://heinzpampel.de/
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2025-01-10"
+categories: [Lab Life, Research]
+image: BID.webp
+draft: false
+---
+
+Wir freuen uns zu verkünden, dass das Projekt Infra Wiss Blogs auf dem diesjährigen BID Kongress mit einem Vortrag sowie einem Hands-on Lab vertreten sein wird.
+
+Der Vortrag mit dem Titel “[Kartierung deutscher Wissenschaftsblogs - Ergebnisse und Impulse](https://bid2025.abstractserver.com/program/#/details/presentations/307)” wird am 26. Juni von 11 bis 11:30 in Halle 4.1/Raum II stattfinden. 
+
+Catharina Ochsner, Heinz Pampel sowie Jonas Höfting vom [Lehrstuhl Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) des [Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de) (HU Berlin), werden die Ergebnisse einer Datenerhebung von über 800 deutschen Wissenschaftsblogs vor, die auf infrastrukturelle Aspekte untersucht wurden, vorstellen. Darüber hinaus werden Impulse für wissenschaftliche Bibliotheken gegeben, um einen Beitrag zur Sicherung der dauerhaften Zugänglichkeit von Blogs zu leisten.
+
+Das Hands-on Lab mit dem Titel “[Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs](https://bid2025.abstractserver.com/program/#/details/sessions/84)” wird ebenfalls am 26. Juni von 14 bis 16 Uhr im Salon Oslo stattfinden. 
+
+Im Hands-on-Lab diskutieren die Teilnehmer:innen unter der Organisation und Moderation von Expert:innen der wissenschaftlichen Bloglandschaft die Rolle der Bibliotheken bei der Erschließung, Verbreitung und Sicherung wissenschaftlicher Blogs. In Gesprächsrunden sollen Aspekte von Technik, Organisation und Rahmenbedingungen der Sicherung von Blogs diskutiert werden. Das Hands-on Lab wird geleitet von [Catharina Ochsner](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement) (HU Berlin) sowie unterstützt von [Heinz Pampel](https://heinzpampel.de/) (HU Berlin), [Elena Di Rosa](https://verfassungsblog.de/author/elena-di-rosa/) ([Verfassungsblog](https://verfassungsblog.de/)), [Martin Fenner](https://front-matter.io/team) ([Front Matter](https://front-matter.io/)), Sven Ködel (\[Deutsches Historisches Institut Paris\] (https://www.dhi-paris.fr/home.html)), [Charmaine Voigt](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt) ([GESIS: Leibniz Institut für Sozialwissenschaften](https://www.gesis.org/home)) und [Britta Woldering](https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html) von der [Deutschen Nationalbibliothek](https://www.dnb.de/DE/Home/home_node.html). Die Anmeldung für den Workshop findet per [E-Mail](mailto:catharina.ochsner@hu-berlin.de) an Catharina Ochsner statt.
+
+Wir würden uns freuen, Sie auf dem BID Kongress zu sehen und mit Ihnen über das Thema der langfristigen Verfügbarkeit von Wissenschaftsblogs zu diskutieren. Bei Fragen zum BID Kongress oder den Veranstaltungen, können Sie sich sehr gerne bei [Catharina Ochsner](mailto:catharina.ochsner@hu-berlin.de) melden.
+
+Weitere Informationen über die Forschungsgruppe finden Sie auf unserer [offiziellen Website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: | 
+  @*
+---
