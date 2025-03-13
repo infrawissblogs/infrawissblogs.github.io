@@ -1,5 +1,6 @@
 ---
 title: "Infra Wiss Blogs auf dem BID Kongress 2025"
+lang: de
 author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951
@@ -14,6 +15,8 @@ date: "2025-03-10"
 categories: [Lab Life, Research]
 image: BID.webp
 draft: false
+citation:
+  url: https://doi.org/10.59350/ap66g-dqw76
 ---
 
 Wir freuen uns zu verkünden, dass das Projekt Infra Wiss Blogs auf dem diesjährigen BID Kongress mit einem Vortrag sowie einem Hands-on Lab vertreten sein wird.
