@@ -1,5 +1,6 @@
 ---
 title: "Ausblicke auf die zukünftige Infrastruktur für wissenschaftliche Blogs in Deutschland"
+lang: de
 author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951
@@ -19,6 +20,8 @@ categories: [Lab Life, Research]
 image: IMG_5273.jpg
 draft: false
 bibliography: references_vernetzungsworkshop.bib
+citation:
+  url: https://doi.org/10.59350/qrdjv-94z86
 ---
 
 Am 6. Dezember 2024 haben wir den ersten Workshop unseres von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts [Infra Wiss Blogs](https://infrawissblogs.org/) [@ochsner_research_2024] veranstaltet. Ziel des Workshops war es, wissenschaftliche Blogger:innen und Expert:innen aus Informationsinfrastruktureinrichtungen zusammenzubringen, um Erfahrungen, Wünsche und Herausforderungen rund um wissenschaftliche Blogs und deren langfristige Zugänglichkeit auszutauschen.

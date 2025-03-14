@@ -1,5 +1,6 @@
 ---
 title: "Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren"
+lang: de
 author:
   - name: Catharina Ochsner
     orcid: 0009-0005-3885-3951 
@@ -31,6 +32,8 @@ date: "2024-10-17"
 categories: [Lab Life, Research]
 image: OAT.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+citation:
+  url: https://doi.org/10.59350/kfbxj-8kb95
 bibliography: references_oatage.bib
 ---
 
