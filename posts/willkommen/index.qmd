@@ -3,7 +3,7 @@ title: "Willkommen"
 lang: de
 author: "Heinz Pampel"
 date: "2024-07-12"
-categories: [News; Lab Life]
+categories: [Lab Life]
 image: "image.jpg"
 citation:
   url: https://doi.org/10.59350/1z47b-61c39
