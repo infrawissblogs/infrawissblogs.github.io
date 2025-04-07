@@ -1,0 +1,242 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Inhaltsverzeichnis}
+\else
+  \newcommand\contentsname{Inhaltsverzeichnis}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Abbildungsverzeichnis}
+\else
+  \newcommand\listfigurename{Abbildungsverzeichnis}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Tabellenverzeichnis}
+\else
+  \newcommand\listtablename{Tabellenverzeichnis}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Abbildung}
+\else
+  \newcommand\figurename{Abbildung}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabelle}
+\else
+  \newcommand\tablename{Tabelle}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{Listingverzeichnis}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{ngerman}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Infra Wiss Blogs auf dem BID Kongress 2025},
+  pdfauthor={Catharina Ochsner; Heinz Pampel},
+  pdflang={de},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Infra Wiss Blogs auf dem BID Kongress 2025}
+\author{Catharina Ochsner \and Heinz Pampel}
+\date{2025-03-10}
+
+\begin{document}
+\maketitle
+
+
+Wir freuen uns zu verkünden, dass das Projekt Infra Wiss Blogs auf dem
+diesjährigen BID Kongress mit einem Vortrag sowie einem Hands-on Lab
+vertreten sein wird.
+
+Der Vortrag mit dem Titel
+``\href{https://bid2025.abstractserver.com/program/\#/details/presentations/307}{Kartierung
+deutscher Wissenschaftsblogs - Ergebnisse und Impulse}'' wird am 26.
+Juni von 11 bis 11:30 in Halle 4.1/Raum II stattfinden.~
+
+Catharina Ochsner, Heinz Pampel sowie Jonas Höfting vom
+\href{https://www.ibi.hu-berlin.de/de/forschung/infomanagement}{Lehrstuhl
+Information Management} des
+\href{https://www.ibi.hu-berlin.de/de}{Instituts für Bibliotheks- und
+Informationswissenschaft} der
+\href{https://www.hu-berlin.de/de}{Humboldt-Universität zu Berlin} (HU
+Berlin), werden die Ergebnisse einer Datenerhebung von über 800
+deutschen Wissenschaftsblogs vor, die auf infrastrukturelle Aspekte
+untersucht wurden, vorstellen. Darüber hinaus werden Impulse für
+wissenschaftliche Bibliotheken gegeben, um einen Beitrag zur Sicherung
+der dauerhaften Zugänglichkeit von Blogs zu leisten.
+
+Das Hands-on Lab mit dem Titel
+``\href{https://bid2025.abstractserver.com/program/\#/details/sessions/84}{Bibliotheken
+als betreibende und bewahrende Institutionen für wissenschaftliche
+Blogs}'' wird ebenfalls am 26. Juni von 14 bis 16 Uhr im Salon Oslo
+stattfinden.~
+
+Im Hands-on-Lab diskutieren die Teilnehmer:innen unter der Organisation
+und Moderation von Expert:innen der wissenschaftlichen Bloglandschaft
+die Rolle der Bibliotheken bei der Erschließung, Verbreitung und
+Sicherung wissenschaftlicher Blogs. In Gesprächsrunden sollen Aspekte
+von Technik, Organisation und Rahmenbedingungen der Sicherung von Blogs
+diskutiert werden. Das Hands-on Lab wird geleitet von
+\href{https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement}{Catharina
+Ochsner} (HU Berlin) sowie unterstützt von
+\href{https://heinzpampel.de/}{Heinz Pampel} (HU Berlin),
+\href{https://verfassungsblog.de/author/elena-di-rosa/}{Elena Di Rosa}
+(\href{https://verfassungsblog.de/}{Verfassungsblog}),
+\href{https://front-matter.io/team}{Martin Fenner}
+(\href{https://front-matter.io/}{Front Matter}), Sven Ködel
+({[}Deutsches Historisches Institut Paris{]}
+(https://www.dhi-paris.fr/home.html)),
+\href{https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt}{Charmaine
+Voigt} (\href{https://www.gesis.org/home}{GESIS: Leibniz Institut für
+Sozialwissenschaften}) und
+\href{https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html}{Britta
+Woldering} von der
+\href{https://www.dnb.de/DE/Home/home_node.html}{Deutschen
+Nationalbibliothek}. Die Anmeldung für den Workshop findet per
+\href{mailto:catharina.ochsner@hu-berlin.de}{E-Mail} an Catharina
+Ochsner statt.
+
+Wir würden uns freuen, Sie auf dem BID Kongress zu sehen und mit Ihnen
+über das Thema der langfristigen Verfügbarkeit von Wissenschaftsblogs zu
+diskutieren. Bei Fragen zum BID Kongress oder den Veranstaltungen,
+können Sie sich sehr gerne bei
+\href{mailto:catharina.ochsner@hu-berlin.de}{Catharina Ochsner} melden.
+
+Weitere Informationen über die Forschungsgruppe finden Sie auf unserer
+\href{http://hu.berlin/infomgnt}{offiziellen Website}.
+
+This text -- excluding quotes and otherwise labelled parts -- is
+licensed under the
+\href{https://creativecommons.org/licenses/by/4.0/deed.de}{CC BY 4.0
+DEED}.
+
+
+
+
+\end{document}
