@@ -9,8 +9,72 @@
 <link>https://infrawissblogs.org/blog.html</link>
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Sun, 09 Mar 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 15 May 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Infra Wiss Blogs auf dem BID Kongress 2025</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infrawissblogs.org/posts/2025-05-16-webinar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> laden wir Sie herzlich zu einem Webinar zum Thema Archivierung wissenschaftlicher Blogs ein.</p>
+<p>In diesem Webinar steht der Dienst <a href="https://preview.rogue-scholar.org/de">Rogue Scholar</a> von <a href="https://front-matter.io/">Front Matter</a> im Fokus. Nach einer Einführung in das Projekt Infra Wiss Blogs, wird Rogue Scholar vorgestellt. Es wird beleuchtet, wie WordPress-gehostete Wissenschaftsblogs mit Rogue Scholar archiviert werden können. Darauf aufbauend folgen Anwender:innenberichte, die über Erfahrungen bei der Nutzung von Rogue Scholar berichten. Das Webinar schließt mit einer offenen Diskussion ab.</p>
+<p>Das Webinar richtet sich an Wissenschaftler:innen, Blogger:innen, Expert:innen aus Informationsinfrastrukturen sowie alle, die sich mit digitaler Wissenschaftskommunikation und der Sicherung einer dauerhaften Zugänglichmachung von wissenschaftlichen Inhalten beschäftigen. Das Webinar wird auf Deutsch stattfinden.</p>
+<p><strong>Datum:</strong> Mittwoch, 11. Juni 2025</p>
+<p><strong>Dauer:</strong> 10:00 - 11:30 Uhr</p>
+<p><strong>Bitte registrieren Sie sich unter:</strong> <a href="https://hu.berlin/infrawissblogs" class="uri">https://hu.berlin/infrawissblogs</a></p>
+<p><strong>Kontakt:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
+<p><strong>Programm:</strong></p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td><strong>Uhrzeit</strong></td>
+<td><strong>Thema</strong></td>
+</tr>
+<tr class="even">
+<td>10:00</td>
+<td>Begrüßung und Vorstellung Infra Wiss Blogs (Heinz Pampel und Catharina Ochsner)</td>
+</tr>
+<tr class="odd">
+<td>10:10</td>
+<td>Einführung in Rogue Scholar (Martin Fenner, Front Matter)</td>
+</tr>
+<tr class="even">
+<td>10:30</td>
+<td>Anwender:innenperspektive I: <a href="https://blog.dini.de/EPub_FIS/ueber-uns/">Gemeinsamer Blog der AGs Forschungsinformationen &amp; -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.</a> (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen)</td>
+</tr>
+<tr class="odd">
+<td>10:45</td>
+<td>Anwender:innenperspektive II: <a href="https://cstonline.net/">CSTonline, community blog of the Journal <em>Critical Studies in Television</em></a> (Tobias Steiner, COPIM)</td>
+</tr>
+<tr class="even">
+<td>11:00</td>
+<td>Diskussion</td>
+</tr>
+<tr class="odd">
+<td>11:30</td>
+<td>Verabschiedung</td>
+</tr>
+</tbody>
+</table>
+<p>Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den <a href="https://infrawissblogs.org/">Projektblog</a> sowie die <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">Mailingliste</a> des Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an <a href="mailto:catharina.ochsner@hu-berlin.de">Catharina Ochsner</a>.</p>
+<p>Weitere Informationen über die Forschungsgruppe finden Sie auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2025-05-16-webinar/</guid>
+  <pubDate>Thu, 15 May 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2025-05-16-webinar/roguescholar.png" medium="image" type="image/png" height="124" width="144"/>
+</item>
 <item>
   <title>Infra Wiss Blogs auf dem BID Kongress 2025</title>
   <dc:creator>Catharina Ochsner</dc:creator>

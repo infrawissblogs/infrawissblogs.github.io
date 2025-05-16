@@ -1,0 +1,52 @@
+---
+title: "Infra Wiss Blogs auf dem BID Kongress 2025"
+lang: de
+author:
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Heinz Pampel
+    url: https://heinzpampel.de/
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2025-05-16"
+categories: [Lab Life, Research]
+image: roguescholar.png
+draft: false
+#citation:
+ # url: 
+---
+
+Im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts [Infra Wiss Blogs](https://infrawissblogs.org/) laden wir Sie herzlich zu einem Webinar zum Thema Archivierung wissenschaftlicher Blogs ein.
+
+In diesem Webinar steht der Dienst [Rogue Scholar](https://preview.rogue-scholar.org/de) von [Front Matter](https://front-matter.io/) im Fokus. Nach einer Einführung in das Projekt Infra Wiss Blogs, wird Rogue Scholar vorgestellt. Es wird beleuchtet, wie WordPress-gehostete Wissenschaftsblogs mit Rogue Scholar archiviert werden können. Darauf aufbauend folgen Anwender:innenberichte, die über Erfahrungen bei der Nutzung von Rogue Scholar berichten. Das Webinar schließt mit einer offenen Diskussion ab.
+
+Das Webinar richtet sich an Wissenschaftler:innen, Blogger:innen, Expert:innen aus Informationsinfrastrukturen sowie alle, die sich mit digitaler Wissenschaftskommunikation und der Sicherung einer dauerhaften Zugänglichmachung von wissenschaftlichen Inhalten beschäftigen. Das Webinar wird auf Deutsch stattfinden.
+
+**Datum:** Mittwoch, 11. Juni 2025
+
+**Dauer:** 10:00 - 11:30 Uhr
+
+**Bitte registrieren Sie sich unter:** <https://hu.berlin/infrawissblogs>
+
+**Kontakt:** [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+**Programm:**
+
+|  |  |
+|----|----|
+| **Uhrzeit** | **Thema** |
+| 10:00 | Begrüßung und Vorstellung Infra Wiss Blogs (Heinz Pampel und Catharina Ochsner) |
+| 10:10 | Einführung in Rogue Scholar (Martin Fenner, Front Matter) |
+| 10:30 | Anwender:innenperspektive I: [Gemeinsamer Blog der AGs Forschungsinformationen & -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.](https://blog.dini.de/EPub_FIS/ueber-uns/) (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen) |
+| 10:45 | Anwender:innenperspektive II: [CSTonline, community blog of the Journal *Critical Studies in Television*](https://cstonline.net/) (Tobias Steiner, COPIM) |
+| 11:00 | Diskussion |
+| 11:30 | Verabschiedung |
+
+Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den [Projektblog](https://infrawissblogs.org/) sowie die [Mailingliste](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs) des Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an [Catharina Ochsner](mailto:catharina.ochsner@hu-berlin.de).
+
+Weitere Informationen über die Forschungsgruppe finden Sie auf unserer [offiziellen Website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
