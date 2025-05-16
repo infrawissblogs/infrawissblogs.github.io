@@ -1,5 +1,5 @@
 ---
-title: "Infra Wiss Blogs auf dem BID Kongress 2025"
+title: "Webinar: Blogarchivierung mit Rogue Scholar am Beispiel von WordPress gehosteten Blogs"
 lang: de
 author:
   - name: Catharina Ochsner
@@ -36,7 +36,7 @@ Das Webinar richtet sich an Wissenschaftler:innen, Blogger:innen, Expert:innen a
 **Programm:**
 
 |  |  |
-|----|----|
+|------------------|------------------------------------------------------|
 | **Uhrzeit** | **Thema** |
 | 10:00 | Begrüßung und Vorstellung Infra Wiss Blogs (Heinz Pampel und Catharina Ochsner) |
 | 10:10 | Einführung in Rogue Scholar (Martin Fenner, Front Matter) |
