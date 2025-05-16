@@ -15,8 +15,8 @@ date: "2025-05-16"
 categories: [Lab Life, Research]
 image: roguescholar.png
 draft: false
-#citation:
- # url: 
+citation:
+  url: https://doi.org/10.59350/5veet-s9x33
 ---
 
 Im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts [Infra Wiss Blogs](https://infrawissblogs.org/) laden wir Sie herzlich zu einem Webinar zum Thema Archivierung wissenschaftlicher Blogs ein.

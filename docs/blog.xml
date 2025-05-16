@@ -68,7 +68,19 @@
 
 
 
-<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p> ]]></description>
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Zitat</h2><div><div class="quarto-appendix-secondary-label">Mit BibTeX zitieren:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Webinar: Blogarchivierung mit Rogue Scholar am Beispiel von
+    WordPress gehosteten Blogs},
+  date = {2025-05-16},
+  url = {https://doi.org/10.59350/5veet-s9x33},
+  langid = {de}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Bitte zitieren Sie diese Arbeit als:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Webinar:
+Blogarchivierung mit Rogue Scholar am Beispiel von WordPress gehosteten
+Blogs.”</span> May 16, 2025. <a href="https://doi.org/10.59350/5veet-s9x33">https://doi.org/10.59350/5veet-s9x33</a>.
+</div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
   <guid>https://infrawissblogs.org/posts/2025-05-16-webinar/</guid>
