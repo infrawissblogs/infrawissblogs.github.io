@@ -1,0 +1,64 @@
+---
+title: "Zusammenfassung: Infra Wiss Blogs Webinar zu Rogue Scholar"
+lang: de
+author:
+  - name: Jonas Höfting
+    orcid: 0009-0003-4466-1775
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Catharina Ochsner
+    orcid: 0009-0005-3885-3951
+    affiliation: Humboldt-Universität zu Berlin
+    affiliation-url: http://hu-berlin.de/infomgnt
+  - name: Heinz Pampel
+    url: https://heinzpampel.de/
+    orcid: 0000-0003-3334-2771
+    affiliation: Humboldt-Universität zu Berlin & Helmholtz Association
+    affiliation-url: http://hu-berlin.de/infomgnt
+date: "2025-05-18"
+categories: [Lab Life, Research]
+image: webinar_infrawissblogs.png
+draft: false
+bibliography: references_webinar_infrawissblogs.bib
+citation:
+  url: https://doi.org/10.59350/qrdjv-94z86
+---
+
+Am 11.06.2025 fand das Webinar des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes [Infra Wiss Blogs](https://infrawissblogs.org/) zum Thema “Blogarchivierung mit Rogue Scholar am Beispiel von WordPress gehosteten Blogs” statt. Das Webinar beleuchtete die Möglichkeiten und Herausforderungen der Archivierung wissenschaftlicher Blogs. Im Kern stand die Vorstellung von [Rogue Scholar](https://rogue-scholar.org/), einer Plattform zur Archivierung von Wissenschaftsblogs. Etwa 50 Personen nahmen teil. In diesem Blogpost werden die zentralen Diskussionspunkte und Erkenntnisse aus dem Webinar zusammengefasst.
+
+## Vorträge
+
+Nach einer Begrüßung durch [Heinz Pampel](https://heinzpampel.de/) führte [Catharina Ochsner](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement) zunächst in die Thematik Wissenschaftsblogs ein. Dabei führte sie den Grundbegriff des wissenschaftlichen Bloggens ein und betrachtete die Herausforderungen bei der Archivierung von Blogs. Sie betonte dabei die Wichtigkeit der Langzeitverfügbarkeit von wissenschaftlichen Bloginhalten [@ochsner_blogarchivierung_2025].
+
+Anschließend stellte Martin Fenner ([IFront Matter](https://front-matter.io/team) die Funktionsweise und Möglichkeiten von [Rogue Scholar](https://rogue-scholar.org/) vor, einer Plattform auf Basis von [Invenio RDM](https://inveniosoftware.org/products/rdm/), die sich der Archivierung wissenschaftlicher Blogs widmet. Rogue Scholar archiviert nicht nur die Inhalte der Blogs, sondern vergibt auch Digital Object Identifiers (DOIs) für Blogbeiträge und stellt die Webarchivierung über das [Internet Archive](https://archive.org/about/) sicher. Aktuell sind bei Rogue Scholar ca. 150 Blogs und mehr als 40.000 Posts archiviert. Alle von Rogue Scholar archivierten Blogs stehen unter [Creative Commons](https://de.creativecommons.net/start/) Attribution (CC BY) Lizenz. Um die Archivierung von Blogs bei Rogue Scholar zu erleichtern, gab Martin Fenner eine Reihe von Empfehlungen, so etwa die Verwendung einer CC BY Lizenz oder die Nutzung von Referenzen in den Blogposts [@fenner_blogarchivierung_2025].
+
+![](webinar_infrawissblogs.png)\
+
+Anschließend teilten [Daniel Beucke](https://blog.dini.de/EPub_FIS/author/beucked/) von der [Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB)](https://www02.sub.uni-goettingen.de/sub-aktuell/) und [Tobias Steiner](https://zfmedienwissenschaft.de/archiv/autorin/steiner-tobias) ihre Erfahrungen mit Rogue Scholar und der damit einhergehenden Archivierung ihrer wissenschaftlichen Blogs.
+
+Daniel Beucke brachte die Perspektive des [DINI-Blogs](https://blog.dini.de/EPub_FIS/) ein, der seit 2016 aus den Arbeitsgruppen der [Deutschen Initiative für Netzwerkinformation (DINI)](https://dini.de/) berichtet. Er betonte die Relevanz der Langzeitverfügbarkeit und schilderte die einfache Integration in Rogue Scholar. Laut Beucke ist eine zentrale Herausforderung für den DINI-Blog die hohe Zahl an Gast-Autor:innen und deren Abbildung in den Metadaten [@beucke_anwenderperspektive_2025]. Tobias Steiner brachte seine Erfahrungen aus zwei Perspektiven ein: Er bloggt nicht nur privat auf [Flavours of Open](https://flavoursofopen.science/), sondern ist auch Redakteur für den Blog der Open-Access-Zeitschrift [Critical Studies in Television](https://journals.sagepub.com/home/CST), [CSTonline](https://cstonline.net/) [@steiner_archivierung_2025]. Beide Blogs sind auf Rogue Scholar archiviert.
+
+## Diskussion
+
+In der abschließenden Diskussion kamen eine Reihe von Themen und Fragen auf, die hier zusammengefasst werden.
+
+Ein erster zentraler Diskussionspunkt war die Verwendung von CC Lizenzen für wissenschaftliche Blogs. Wie oben erwähnt, archiviert Rogue Scholar nur Blogs, deren Posts unterer CC-BY Lizenz veröffentlicht werden. CC-BY kann als Standard für wissenschaftliche Open-Access-Publikationen verstanden werden, da diese Lizenz wenig Einschränkungen mit sich bringt und auch der wissenschaftlichen Zitationspraxis am ehesten entspricht. Allerdings kann die nachträgliche Archivierung zu komplexen Situationen führen, wenn Blogbeiträge in Community-Blogs bislang nicht unter einer offenen Lizenz veröffentlicht wurden. In solchen Fällen müssen sämtliche bisherigen Autor:innen kontaktiert werden, um eine nachträgliche Lizenzierung zu ermöglichen. Es wird daher empfohlen, sowohl den Blog als auch jeden einzelnen Beitrag bereits im Vorfeld eindeutig mit einer Lizenz zu versehen.
+
+Auch technische Herausforderungen wurden erörtert, so z.B. der Umgang mit multimedialer Inhalten oder Kommentaren in Blogs. Hier wurden bisher noch ungeklärte Fragen deutlich. Die Rolle von wissenschaftlichen Blogs in der Publikationslandschaft wurde unter mehreren Gesichtspunkten betrachtet. Es wurden Gemeinsamkeiten zwischen Blogposts und Pre-Prints herausgestellt. Martin Fenner berichtete von ersten erfolgreichen Tests mit Peer-Review-Verfahren für Blogposts über die Plattform [MetaROR](https://cms.metaror.org/) [@marcum_peer-review_2025]. Auch wurde auch über die Möglichkeit der Abbildung von Corrections und Retractions von Blogposts diskutiert.
+
+Im Kontext der Archivierung wissenschaftsbezogener Blogformate wurde die strukturelle Abhängigkeit von individuellen Akteur:innen als ein Problem identifiziert. In der Diskussion kristallisierten sich zwei Strategien zur Ermöglichung langfristiger Zugänglichkeit heraus: Zum einen die kollektive Verantwortungsübernahme durch Community-getragene Infrastrukturen, zum anderen die institutionelle Verankerung der Blogangebote innerhalb etablierter Organisationen.
+
+## Zusammenfassung und Ausblick
+
+Das Webinar bot Einblicke sowohl in die Funktionsweise von Rogue Scholar als auch in die Perspektiven der Nutzer:innen. Die positive Resonanz sowie die Vielzahl an Fragen und Diskussionen verdeutlichen den bestehenden Bedarf innerhalb der wissenschaftlichen Community. Zugleich wurde deutlich, dass Projekte wie Infra Wiss Blogs einen wichtigen Beitrag zur Strukturierung von Diskursen über kooperative Lösungsansätze für die digitale Langzeitarchivierung leisten können. .
+
+Wir danken allen Vortragenden und Teilnehmenden für ihre Beiträge und die aufschlussreichen Diskussionen. Die Foliensätze der Vortragenden sind in der [Community des Lehrstuhls Information Management auf Zenodo](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) hinterlegt. Updates zum Projekt sowie weitere Veranstaltungen kommunizieren wir über diesen Blog sowie die [Mailingliste](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs) des Projekts.
+
+Weitere Informationen über die Forschungsgruppe finden Sie auf unserer [offiziellen Website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: | 
+  @*
+---
