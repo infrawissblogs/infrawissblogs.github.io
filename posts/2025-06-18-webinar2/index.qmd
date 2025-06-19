@@ -21,7 +21,7 @@ image: webinar_infrawissblogs.png
 draft: false
 bibliography: references_webinar_infrawissblogs.bib
 citation:
-  url: https://doi.org/10.59350/qrdjv-94z86
+  url: https://doi.org/10.59350/h7rh7-jb575
 ---
 
 Am 11.06.2025 fand das Webinar des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes [Infra Wiss Blogs](https://infrawissblogs.org/) zum Thema “Blogarchivierung mit Rogue Scholar am Beispiel von WordPress gehosteten Blogs” statt. Das Webinar beleuchtete die Möglichkeiten und Herausforderungen der Archivierung wissenschaftlicher Blogs. Im Kern stand die Vorstellung von [Rogue Scholar](https://rogue-scholar.org/), einer Plattform zur Archivierung von Wissenschaftsblogs. Etwa 50 Personen nahmen teil. In diesem Blogpost werden die zentralen Diskussionspunkte und Erkenntnisse aus dem Webinar zusammengefasst.
