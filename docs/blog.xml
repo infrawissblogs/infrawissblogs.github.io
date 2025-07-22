@@ -10,7 +10,95 @@
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sat, 17 May 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs: Bericht über ein Hands-on Lab auf der 113. Bibliocon</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Till Stadtbäumer</dc:creator>
+  <dc:creator>Martin Fenner</dc:creator>
+  <dc:creator>Sven Ködel</dc:creator>
+  <dc:creator>Charmaine Voigt</dc:creator>
+  <dc:creator>Britta Woldering</dc:creator>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <link>https://infrawissblogs.org/posts/2025-07-22-bid2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wissenschaftliche Blogs haben sich als wichtige Plattformen etabliert, um Forschungsergebnisse und -diskurse sowohl innerhalb von Fachcommunities als auch gegenüber der breiten Öffentlichkeit zugänglich zu machen. Angesichts der sich wandelnden Social-Media-Landschaft gewinnt die Rolle nicht-kommerzieller Infrastrukturen wie Blogs oder das Fediverse an Bedeutung. Blogs können als Teil eines wissenschaftsgeleiteten Open-Access-Publizierens betrachtet werden <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<p>Ein bislang ungelöstes Problem stellt die dauerhafte Zugänglichkeit von Blogs dar, insbesondere außerhalb von Infrastrukturen wie <a href="https://de.hypotheses.org/">de.hypotheses.org</a>. Die Archivierung von dynamischen Inhalten und Kommentaren ist eine technische und organisatorische Herausforderung, vor allem wenn solche Inhalte in wissenschaftlichen Artikeln oder sogar Gerichtsurteilen (etwa beim <a href="https://verfassungsblog.de">Verfassungsblog</a>) zitiert werden. Die Hackerangriffe auf das <a href="https://archive.org/">Internet Archive</a> im Herbst 2024 unterstreichen zudem die allgemeine Fragilität digitaler Sicherungsmaßnahmen <span class="citation" data-cites="ochsner2025">Pampel and Rothfritz (2024)</span>.</p>
+<p>Im Rahmen des <a href="https://bid-kongress2025.de/">BID-Kongresses 2025</a> fand am 26. Juni in Bremen das Hands-on Lab „Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs“ statt. Initiiert wurde das Lab durch das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt „Infra Wiss Blogs – Kooperative Informationsinfrastruktur für wissenschaftliche Blogs“ <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<p>Ziel des Hands-on Labs war es, Expert:innen aus der wissenschaftlichen Blogosphäre und dem Bibliothekswesen zusammenzubringen, um über Herausforderungen und Potenziale wissenschaftlicher Blogs im Hinblick auf Sichtbarkeit, Erschließung und Langzeitarchivierung zu diskutieren. Mithilfe der World-Café-Methode diskutierten die Teilnehmenden in moderierten Gesprächsrunden Aspekte wie Technik, Organisation und Rahmenbedingungen für die nachhaltige Sicherung und Sichtbarkeit wissenschaftlicher Blogs, mit besonderem Fokus auf die Rolle von Bibliotheken als potenzielle Trägerinstitutionen <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<section id="these-1-metadaten-und-lizenzen" class="level3">
+<h3 class="anchored" data-anchor-id="these-1-metadaten-und-lizenzen">These 1: Metadaten und Lizenzen</h3>
+<p>Die erste These lautete: „Für die Langzeitarchivierung ihrer Publikationen müssen wissenschaftliche Blogs notwendige Vorarbeit leisten, etwa die Pflege von Metadaten und die Vergabe von (offenen) Lizenzen.“</p>
+<p>In der Diskussion zeigte sich, dass es in der Blog-Community häufig an Bewusstsein für diese Anforderungen mangelt. Zwar werden Blogs als niedrigschwellige Kommunikationsform geschätzt, doch genau diese Niedrigschwelligkeit steht im Spannungsverhältnis zu Anforderungen wie Metadatenpflege, Lizenzvergabe oder technischer Standardisierung.</p>
+<p>Die Bringschuld, so die Diskussion, liegt bei den Blogs bzw. Autor:innen – etwa hinsichtlich der klaren Lizenzdeklaration, der Klärung urheberrechtlicher Fragen (z. B. bei eingebetteten Bildern) oder der einheitlichen Nutzung von CSS-Klassen zur Unterstützung automatisierter Importprozesse. Die Infrastrukturträger, wie etwa Bibliotheken, übernehmen in diesem Zusammenhang eine Holschuld, indem sie technische Lösungen wie Plugins bereitstellen, um Blogposts in ihre Informationssysteme zu importieren, und darüber hinaus niedrigschwellige Informationsangebote bereitstellen. Diskutiert wurde ebenfalls, inwiefern Nudging-Strategien helfen könnten, nachhaltigere Praktiken zu etablieren. Als besonders relevantes Handlungsfeld wurde die Förderung offener Lizenzen hervorgehoben, um rechtliche Herausforderungen bei der Nachnutzung, z. B. im Rahmen der Archivierung, zu überwinden.</p>
+</section>
+<section id="these-2-katalogisierung-und-nachweis" class="level3">
+<h3 class="anchored" data-anchor-id="these-2-katalogisierung-und-nachweis">These 2: Katalogisierung und Nachweis</h3>
+<p>Die zweite These fokussierte auf die Erschließung von wissenschaftlichen Blogs: „Die Katalogisierung wissenschaftlicher Blogs stellt Bibliotheken vor neue Herausforderungen, da sie sich nur begrenzt mit traditionellen Erschließungskriterien abbilden lassen.“</p>
+<p>Diskutiert wurde hier, wie tief Blogs katalogisiert werden sollten. Die Vielfalt an Formaten – von Einzelposts über Kommentare bis zu Multimedia-Inhalten – sowie die häufig multiple Autor:innenschaft führen zu Unsicherheiten in der bibliothekarischen Praxis.</p>
+<p>Technische Aspekte wie unterschiedliche Plattformen, Softwarearchitekturen oder Feedpflege erschweren zudem eine Standardisierung. Diskutiert wurde der mögliche Einsatz von Webscraping oder Aggregatoren wie <a href="https://rogue-scholar.org">Rogue Scholar</a>. Ergänzt wurde die Debatte durch Überlegungen zur Nachhaltigkeit von Dateiformaten (z. B. PDF-A, HTML), zur rechtlichen Einordnung und zur Haftung bei internationalem Content. Deutlich wurde: Es braucht ein systematischeres Herangehen an bibliothekarische Handlungsfelder im Umgang mit Blogs.</p>
+</section>
+<section id="these-3-verantwortung-und-infrastrukturträger" class="level3">
+<h3 class="anchored" data-anchor-id="these-3-verantwortung-und-infrastrukturträger">These 3: Verantwortung und Infrastrukturträger</h3>
+<p>Die dritte These lautete: „Die Langzeitarchivierung wissenschaftlicher Blogs darf nicht länger als Nebenaufgabe öffentlicher Institutionen behandelt werden. Diese Aufgabe muss notfalls durch community-getragene Plattformen gesichert werden.“</p>
+<p>Diese Aussage traf auf breite Zustimmung. Im Fokus stand die Frage, welche Community diese Rolle übernehmen kann. Beispiele aus der Praxis zeigten das Engagement von regionalen Pflichtexemplarbibliotheken oder Fachinformationsdiensten (FIDs). Mehrere Teilnehmende berichteten über laufende Initiativen in ihren Einrichtungen.</p>
+<p>Als technische Lösungen wurden Webarchivierungsdienste und föderierte Modelle wie <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a> diskutiert. Es bestand Konsens, dass es einer besseren Kartierung bestehender Akteure, Aktivitäten und Datenflüsse auf Ebene der Infrastrukturen bedarf.</p>
+</section>
+<section id="abschließende-diskussion-kooperationsmodelle-und-systemfragen" class="level3">
+<h3 class="anchored" data-anchor-id="abschließende-diskussion-kooperationsmodelle-und-systemfragen">Abschließende Diskussion: Kooperationsmodelle und Systemfragen</h3>
+<p>Im Abschlussgespräch wurde die Frage diskutiert, wie eine nachhaltige, community-getragene Archivierung wissenschaftlicher Blogs gestaltet sein könnte: zentral durch eine neue Softwarelösung oder dezentral durch stärkere Einbindung bestehender Institutionen?</p>
+<p>Konsens bestand darüber, dass es kooperative Modelle braucht, in denen verschiedene Akteur:innen unterschiedliche Rollen übernehmen, etwa bei Metadatenmanagement, Speicherung oder Sichtbarkeit. Vorgeschlagen wurde eine systematische Annäherung: Wer ist bereits aktiv, welche Infrastrukturen gibt es, wie lässt sich daraus ein kooperatives System formen?</p>
+<p>Betont wurde das Potenzial von Webarchivierung, besonders in Kombination mit gezielter Metadatenextraktion. Die Idee einer Parallelarchivierung, durch DNB, disziplinspezifische FIDs oder institutionelle Repositorien, fand breite Zustimmung.</p>
+<p>Als Beispiel guter Praxis wurde <a href="https://rogue-scholar.org">Rogue Scholar</a> hervorgehoben. Deutlich wurde aber auch, dass bei der Sicherstellung von Datenflüssen, z.B. zur Verknüpfung zwischen Archivierung, Katalogisierung und Referenzierung, noch erheblicher Verbesserungsbedarf besteht.</p>
+<p>Ein weiteres Thema war die Rolle wissenschaftlicher Blogs im Reputationssystem. Einige forderten, Blogs sichtbarer zu machen und in Anerkennungsmechanismen der Forschungsbewertung zu integrieren. Andere betonten die Eigenständigkeit von Blogs, analog zu Preprints, aber ohne identische Regeln.</p>
+<p>Dies führte zur zentralen Definitionsfrage: Wann gilt ein Blog als wissenschaftlich? Im Projekt Infra Wiss Blogs wird ein weiter Begriff verwendet: Wissenschaftliche Blogs sind entweder von Wissenschaftler:innen betrieben oder behandeln wissenschaftlich relevante Themen. Auch von den Teilnehmenden wurde eine Orientierung an Relevanz statt an formaler Wissenschaftlichkeit bevorzugt.</p>
+<p><strong>Fazit</strong></p>
+<p>Im Hands-on Lab überwog die Zustimmung zu einem verteilten System mit verschiedenen technischen und organisatorischen Lösungen, getragen von einer engagierten, interdisziplinären Community, die Verantwortung für den Erhalt und die Sichtbarkeit wissenschaftlicher Blogs übernimmt.</p>
+<p>Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Website</a>.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner2025" class="csl-entry">
+Ochsner, Catharina, Elena Di Rosa, Martin Fenner, Sven Ködel, Heinz Pampel, Britta Woldering, Till Stadtbäumer, Charmaine Voigt, and Jonas Höfting. 2025. <span>“Bibliotheken Als Betreibende Und Bewahrende Institutionen Für Wissenschaftliche Blogs.”</span> In. <a href="https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19469">https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19469</a>.
+</div>
+<div id="ref-pampel2024" class="csl-entry">
+Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative Informationsinfrastruktur Für Wissenschaftliche Blogs (Infra Wiss Blogs).”</span> <em>Zenodo</em>, August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+  author = {Pampel, Heinz and Stadtbäumer, Till and Fenner, Martin and
+    Ködel, Sven and Voigt, Charmaine and Woldering, Britta and Ochsner,
+    Catharina and Höfting, Jonas and Onzie Khamis, Christopher},
+  title = {Bibliotheken Als Betreibende Und Bewahrende {Institutionen}
+    Für Wissenschaftliche {Blogs:} {Bericht} Über Ein {Hands-on} {Lab}
+    Auf Der 113. {Bibliocon}},
+  date = {2025-07-22},
+  url = {https://infomgnt.org/posts/2025-07-22-bid2/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Till Stadtbäumer, Martin Fenner, Sven Ködel, Charmaine
+Voigt, Britta Woldering, Catharina Ochsner, Jonas Höfting, and
+Christopher Onzie Khamis. 2025. <span>“Bibliotheken Als Betreibende Und
+Bewahrende Institutionen Für Wissenschaftliche Blogs: Bericht Über Ein
+Hands-on Lab Auf Der 113. Bibliocon.”</span> July 22, 2025. <a href="https://infomgnt.org/posts/2025-07-22-bid2/">https://infomgnt.org/posts/2025-07-22-bid2/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2025-07-22-bid2/</guid>
+  <pubDate>Mon, 21 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2025-07-22-bid2/bid.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Zusammenfassung: Infra Wiss Blogs Webinar zu Rogue Scholar</title>
   <dc:creator>Jonas Höfting</dc:creator>
@@ -70,19 +158,19 @@ Steiner, Tobias. 2025. <span>„Archivierug von Blogs in Rogue Scholar – Zwei 
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Zitat</h2><div><div class="quarto-appendix-secondary-label">Mit BibTeX zitieren:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
   author = {Höfting, Jonas and Ochsner, Catharina and Pampel, Heinz},
   title = {Zusammenfassung: Infra Wiss Blogs Webinar zu Rogue Scholar},
-  date = {2025-05-18},
-  url = {https://doi.org/10.59350/qrdjv-94z86},
+  date = {2025-06-19},
+  url = {https://doi.org/10.59350/h7rh7-jb575},
   langid = {de}
 }
 </code></pre><div class="quarto-appendix-secondary-label">Bitte zitieren Sie diese Arbeit als:</div><div id="ref-höfting2025" class="csl-entry quarto-appendix-citeas">
 Höfting, Jonas, Catharina Ochsner, and Heinz Pampel. 2025.
 <span>“Zusammenfassung: Infra Wiss Blogs Webinar zu Rogue
-Scholar.”</span> May 18, 2025. <a href="https://doi.org/10.59350/qrdjv-94z86">https://doi.org/10.59350/qrdjv-94z86</a>.
+Scholar.”</span> June 19, 2025. <a href="https://doi.org/10.59350/h7rh7-jb575">https://doi.org/10.59350/h7rh7-jb575</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
   <guid>https://infrawissblogs.org/posts/2025-06-18-webinar2/</guid>
-  <pubDate>Sat, 17 May 2025 22:00:00 GMT</pubDate>
+  <pubDate>Wed, 18 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infrawissblogs.org/posts/2025-06-18-webinar2/webinar_infrawissblogs.png" medium="image" type="image/png" height="94" width="144"/>
 </item>
 <item>

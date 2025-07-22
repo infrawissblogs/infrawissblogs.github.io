@@ -1,0 +1,108 @@
+---
+title: 'Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs: Bericht über ein Hands-on Lab auf der 113. Bibliocon'
+author:
+- name: Heinz Pampel
+  url: https://infomgnt.org/team/pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+  affiliation-url: https://www.hu-berlin.de
+- name: Till Stadtbäumer
+  url: https://verfassungsblog.de/author/till-stadtbaeumer/
+  orcid: 0009-0003-9980-3945
+  affiliation: Verfassungsblog, Berlin
+  affiliation-url: https://verfassungsblog.de
+- name: Martin Fenner
+  url: https://front-matter.io/about
+  orcid: 0000-0003-1419-2405
+  affiliation: Front Matter, Münster
+  affiliation-url: https://front-matter.io
+- name: Sven Ködel
+  orcid: 0000-0002-7911-6887
+  affiliation: Deutsches Historisches Institut Paris / Max Weber Stiftung
+  affiliation-url: https://www.maxweberstiftung.de
+- name: Charmaine Voigt
+  url: https://www.gesis.org/personen/charmaine-voigt
+  orcid: 0000-0001-7762-4135
+  affiliation: GESIS – Leibniz-Institut für Sozialwissenschaften, Köln
+  affiliation-url: https://www.gesis.org
+- name: Britta Woldering
+  orcid: 0000-0002-9718-0698
+  affiliation: Deutsche Nationalbibliothek, Frankfurt am Main
+  affiliation-url: https://www.dnb.de
+- name: Catharina Ochsner
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: 0000-0003-1226-760X
+  affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin
+  affiliation-url: https://www.hu-berlin.de
+- name: Jonas Höfting
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: https://orcid.org/0009-0003-4466-1775
+  affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin
+  affiliation-url: https://www.ibi.hu-berlin.de/
+- name: Christopher Onzie Khamis
+  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  orcid: https://orcid.org/0009-0003-0654-2839
+  affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin
+  affiliation-url: https://www.ibi.hu-berlin.de/
+date: "2025-07-22"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2025-07-22-bid2/
+image: bid.jpg
+draft: false
+bibliography: references_bid.bib
+---
+
+Wissenschaftliche Blogs haben sich als wichtige Plattformen etabliert, um Forschungsergebnisse und -diskurse sowohl innerhalb von Fachcommunities als auch gegenüber der breiten Öffentlichkeit zugänglich zu machen. Angesichts der sich wandelnden Social-Media-Landschaft gewinnt die Rolle nicht-kommerzieller Infrastrukturen wie Blogs oder das Fediverse an Bedeutung. Blogs können als Teil eines wissenschaftsgeleiteten Open-Access-Publizierens betrachtet werden [@ochsner2025].
+
+Ein bislang ungelöstes Problem stellt die dauerhafte Zugänglichkeit von Blogs dar, insbesondere außerhalb von Infrastrukturen wie [de.hypotheses.org](https://de.hypotheses.org/). Die Archivierung von dynamischen Inhalten und Kommentaren ist eine technische und organisatorische Herausforderung, vor allem wenn solche Inhalte in wissenschaftlichen Artikeln oder sogar Gerichtsurteilen (etwa beim [Verfassungsblog](https://verfassungsblog.de)) zitiert werden. Die Hackerangriffe auf das [Internet Archive](https://archive.org/) im Herbst 2024 unterstreichen zudem die allgemeine Fragilität digitaler Sicherungsmaßnahmen [@ochsner2025, @pampel2024].
+
+Im Rahmen des [BID-Kongresses 2025](https://bid-kongress2025.de/) fand am 26. Juni in Bremen das Hands-on Lab „Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs“ statt. Initiiert wurde das Lab durch das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt „Infra Wiss Blogs – Kooperative Informationsinfrastruktur für wissenschaftliche Blogs“ [@ochsner2025].
+
+Ziel des Hands-on Labs war es, Expert:innen aus der wissenschaftlichen Blogosphäre und dem Bibliothekswesen zusammenzubringen, um über Herausforderungen und Potenziale wissenschaftlicher Blogs im Hinblick auf Sichtbarkeit, Erschließung und Langzeitarchivierung zu diskutieren. Mithilfe der World-Café-Methode diskutierten die Teilnehmenden in moderierten Gesprächsrunden Aspekte wie Technik, Organisation und Rahmenbedingungen für die nachhaltige Sicherung und Sichtbarkeit wissenschaftlicher Blogs, mit besonderem Fokus auf die Rolle von Bibliotheken als potenzielle Trägerinstitutionen [@ochsner2025].
+
+### These 1: Metadaten und Lizenzen
+
+Die erste These lautete: „Für die Langzeitarchivierung ihrer Publikationen müssen wissenschaftliche Blogs notwendige Vorarbeit leisten, etwa die Pflege von Metadaten und die Vergabe von (offenen) Lizenzen.“
+
+In der Diskussion zeigte sich, dass es in der Blog-Community häufig an Bewusstsein für diese Anforderungen mangelt. Zwar werden Blogs als niedrigschwellige Kommunikationsform geschätzt, doch genau diese Niedrigschwelligkeit steht im Spannungsverhältnis zu Anforderungen wie Metadatenpflege, Lizenzvergabe oder technischer Standardisierung.
+
+Die Bringschuld, so die Diskussion, liegt bei den Blogs bzw. Autor:innen – etwa hinsichtlich der klaren Lizenzdeklaration, der Klärung urheberrechtlicher Fragen (z. B. bei eingebetteten Bildern) oder der einheitlichen Nutzung von CSS-Klassen zur Unterstützung automatisierter Importprozesse. Die Infrastrukturträger, wie etwa Bibliotheken, übernehmen in diesem Zusammenhang eine Holschuld, indem sie technische Lösungen wie Plugins bereitstellen, um Blogposts in ihre Informationssysteme zu importieren, und darüber hinaus niedrigschwellige Informationsangebote bereitstellen. Diskutiert wurde ebenfalls, inwiefern Nudging-Strategien helfen könnten, nachhaltigere Praktiken zu etablieren. Als besonders relevantes Handlungsfeld wurde die Förderung offener Lizenzen hervorgehoben, um rechtliche Herausforderungen bei der Nachnutzung, z. B. im Rahmen der Archivierung, zu überwinden.
+
+### These 2: Katalogisierung und Nachweis
+
+Die zweite These fokussierte auf die Erschließung von wissenschaftlichen Blogs: „Die Katalogisierung wissenschaftlicher Blogs stellt Bibliotheken vor neue Herausforderungen, da sie sich nur begrenzt mit traditionellen Erschließungskriterien abbilden lassen.“
+
+Diskutiert wurde hier, wie tief Blogs katalogisiert werden sollten. Die Vielfalt an Formaten – von Einzelposts über Kommentare bis zu Multimedia-Inhalten – sowie die häufig multiple Autor:innenschaft führen zu Unsicherheiten in der bibliothekarischen Praxis.
+
+Technische Aspekte wie unterschiedliche Plattformen, Softwarearchitekturen oder Feedpflege erschweren zudem eine Standardisierung. Diskutiert wurde der mögliche Einsatz von Webscraping oder Aggregatoren wie [Rogue Scholar](https://rogue-scholar.org). Ergänzt wurde die Debatte durch Überlegungen zur Nachhaltigkeit von Dateiformaten (z. B. PDF-A, HTML), zur rechtlichen Einordnung und zur Haftung bei internationalem Content. Deutlich wurde: Es braucht ein systematischeres Herangehen an bibliothekarische Handlungsfelder im Umgang mit Blogs.
+
+### These 3: Verantwortung und Infrastrukturträger
+
+Die dritte These lautete: „Die Langzeitarchivierung wissenschaftlicher Blogs darf nicht länger als Nebenaufgabe öffentlicher Institutionen behandelt werden. Diese Aufgabe muss notfalls durch community-getragene Plattformen gesichert werden.“
+
+Diese Aussage traf auf breite Zustimmung. Im Fokus stand die Frage, welche Community diese Rolle übernehmen kann. Beispiele aus der Praxis zeigten das Engagement von regionalen Pflichtexemplarbibliotheken oder Fachinformationsdiensten (FIDs). Mehrere Teilnehmende berichteten über laufende Initiativen in ihren Einrichtungen.
+
+Als technische Lösungen wurden Webarchivierungsdienste und föderierte Modelle wie [ActivityPub](https://www.w3.org/TR/activitypub/) diskutiert. Es bestand Konsens, dass es einer besseren Kartierung bestehender Akteure, Aktivitäten und Datenflüsse auf Ebene der Infrastrukturen bedarf.
+
+### Abschließende Diskussion: Kooperationsmodelle und Systemfragen
+
+Im Abschlussgespräch wurde die Frage diskutiert, wie eine nachhaltige, community-getragene Archivierung wissenschaftlicher Blogs gestaltet sein könnte: zentral durch eine neue Softwarelösung oder dezentral durch stärkere Einbindung bestehender Institutionen?
+
+Konsens bestand darüber, dass es kooperative Modelle braucht, in denen verschiedene Akteur:innen unterschiedliche Rollen übernehmen, etwa bei Metadatenmanagement, Speicherung oder Sichtbarkeit. Vorgeschlagen wurde eine systematische Annäherung: Wer ist bereits aktiv, welche Infrastrukturen gibt es, wie lässt sich daraus ein kooperatives System formen?
+
+Betont wurde das Potenzial von Webarchivierung, besonders in Kombination mit gezielter Metadatenextraktion. Die Idee einer Parallelarchivierung, durch DNB, disziplinspezifische FIDs oder institutionelle Repositorien, fand breite Zustimmung.
+
+Als Beispiel guter Praxis wurde [Rogue Scholar](https://rogue-scholar.org) hervorgehoben. Deutlich wurde aber auch, dass bei der Sicherstellung von Datenflüssen, z.B. zur Verknüpfung zwischen Archivierung, Katalogisierung und Referenzierung, noch erheblicher Verbesserungsbedarf besteht.
+
+Ein weiteres Thema war die Rolle wissenschaftlicher Blogs im Reputationssystem. Einige forderten, Blogs sichtbarer zu machen und in Anerkennungsmechanismen der Forschungsbewertung zu integrieren. Andere betonten die Eigenständigkeit von Blogs, analog zu Preprints, aber ohne identische Regeln.
+
+Dies führte zur zentralen Definitionsfrage: Wann gilt ein Blog als wissenschaftlich? Im Projekt Infra Wiss Blogs wird ein weiter Begriff verwendet: Wissenschaftliche Blogs sind entweder von Wissenschaftler:innen betrieben oder behandeln wissenschaftlich relevante Themen. Auch von den Teilnehmenden wurde eine Orientierung an Relevanz statt an formaler Wissenschaftlichkeit bevorzugt.
+
+**Fazit**
+
+Im Hands-on Lab überwog die Zustimmung zu einem verteilten System mit verschiedenen technischen und organisatorischen Lösungen, getragen von einer engagierten, interdisziplinären Community, die Verantwortung für den Erhalt und die Sichtbarkeit wissenschaftlicher Blogs übernimmt.
+
+Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer [offiziellen Website](http://hu.berlin/infomgnt).
+
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
