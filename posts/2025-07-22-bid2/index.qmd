@@ -47,7 +47,7 @@ author:
 date: "2025-07-22"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-07-22-bid2/
+  url: https://doi.org/10.59350/b4fae-mm324
 image: bid.jpg
 draft: false
 bibliography: references_bid.bib
