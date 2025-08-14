@@ -9,7 +9,7 @@ about:
 
 # Infra Wiss Blogs
 
-Webseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs" (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt) des [Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de).
+Webseite und Blog des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs" (Infra Wiss Blogs) am Lehrstuhl [Information Management](http://hu-berlin.de/infomgnt) des [Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de). :)
 
 # Kontakt
 
@@ -17,7 +17,7 @@ infrawissblogs-ibi\@lists.hu-berlin.de
 
 # Anbieter
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ### Prof. Dr. Heinz Pampel
 
@@ -49,4 +49,4 @@ Unter den Linden 6, 10099 Berlin\
 [ORCiD](https://orcid.org/0009-0005-3885-3951) \
 [LinkedIn](www.linkedin.com/in/catharina-ochsner-86145817b)
 :::
-:::
+:::::
