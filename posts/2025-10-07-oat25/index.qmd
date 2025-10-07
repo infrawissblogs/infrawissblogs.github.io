@@ -42,7 +42,7 @@ Auf der Grundlage von zwei provokanten Thesen diskutierten die Teilnehmer die Ro
 
 ### These 1
 
-**\*\*Informationsinfrastruktureinrichtungen müssen die Möglichkeit der Archivierung und persistenten Adressierung von Wissenschaftsblogs bieten.\*\***
+**Informationsinfrastruktureinrichtungen müssen die Möglichkeit der Archivierung und persistenten Adressierung von Wissenschaftsblogs bieten.**
 
 Einerseits betonten die Teilnehmenden, dass Blogs für die Sichtbarkeit und Zugänglichkeit wissenschaftlicher Inhalte relevant seien und deshalb – ähnlich wie andere Publikationsformen – in die Langzeitarchivierung einbezogen werden sollten. Andererseits hoben die Teilnehmenden hervor, dass Ressourcen, Zuständigkeiten und technische Standards bislang ungeklärt seien.
 
@@ -52,7 +52,7 @@ Als Lösungsansatz brachten die Teilnehmenden unter anderem Plugins ins Gespräc
 
 ### These 2
 
-**\*\*Wissenschaftsblogger:innen sind dazu angehalten, sich selbst um die Einhaltung von Open-Science-Praktiken und FAIR-Prinzipien zu kümmern.\*\***
+**Wissenschaftsblogger:innen sind dazu angehalten, sich selbst um die Einhaltung von Open-Science-Praktiken und FAIR-Prinzipien zu kümmern.**
 
 Auch in diesem Themenfeld zeigten sich nach Angaben der Teilnehmenden unterschiedliche Perspektiven. Einerseits wurde anerkannt, dass ein Mindestmaß an Selbstverantwortung bei den Blogger:innen liegen sollte. Andererseits waren sich die Teilnehmenden einig, dass von einzelnen Wissenschaftler:innen kein umfassendes technisches oder informationswissenschaftliches Wissen verlangt werden könne.
 
