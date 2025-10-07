@@ -1,0 +1,72 @@
+---
+title: "Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft"
+author:
+- name: Catharina Ochsner
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Heinz Pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI) & Helmholtz Gemeinschaft, Helmholtz Open Science Office
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Björn Gebert
+  orcid: 0000-0002-9507-7363
+  affiliation: Georg-August-Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen
+  affiliation-url: https://www.sub.uni-goettingen.de
+- name: Melanie Seltmann
+  orcid: 0000-0002-7588-4395
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Ulrike Wuttke
+  orcid: https://orcid.org/0000-0002-8217-4025
+  affiliation: Fachhochschule Potsdam / University of Applied Sciences Potsdam, Fachbereich Informationswissenschaften / Department of Information Sciences 
+  affiliation-url: http://www.fh-potsdam.de/
+date: "2025-10-07"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/DATE-TITLE/
+image: OA25Workshop.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references_oat25.bib
+---
+
+![](images/clipboard-474655958.jpeg)
+
+Das Projekt Infra Wiss Blogs des Lehrstuhls Information Management am [Institut für Bibliotheks- und Informationswissenschaft (IBI)](https://www.ibi.hu-berlin.de/de) war auf den [Open Access Tagen 2025](https://open-access-tage.de/open-access-tage-2025-konstanz) mit dem Workshop „Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft“ vertreten. Der Workshop wurde von Catharina Ochsner und Heinz Pampel zusammen mit Björn Gebert ([Mittelalterblog](https://mittelalter.hypotheses.org/)) & ([Niedersächsische Staats-und Universitätsbibliothek Göttingen](https://www.sub.uni-goettingen.de/)), Melanie Seltmann ([Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de), IBI) und Ulrike Wuttke ([Fachhochschule Potsdam, SeDOA](https://www.fh-potsdam.de/)) organisiert.
+
+Ausgehend von der Frage „Wie können Wissenschaftsblogs institutionell als integraler Bestandteil der Open-Access-Landschaft verankert werden?“ untersuchten die Teilnehmer:innen die Chancen und Herausforderungen einer institutionellen Verknüpfung wissenschaftlicher Blogs. Dazu wurden erste Ergebnisse aus dem Projekt Infra Wiss Blogs vorgestellt [@ochsner2025] Ziel des Workshops war es, ein Verständnis für die Rolle von Blogs als nachhaltige Open-Access-Infrastrukturen zu entwickeln, institutionelle Herausforderungen zu identifizieren und Lösungen für die institutionelle Integration wissenschaftlicher Blogs zu erarbeiten, um Wissenschaftsblogs im Sinne von Diamond Open Access nachhaltig zu fördern. Dieser Blogpost dokumentiert den Workshop aus Sicht der Organisator:innen.
+
+### Diskussion
+
+Auf der Grundlage von zwei provokanten Thesen diskutierten die Teilnehmer die Rolle wissenschaftlicher Blogs als Open-Access-Publikationsformate
+
+### These 1
+
+**\*\*Informationsinfrastruktureinrichtungen müssen die Möglichkeit der Archivierung und persistenten Adressierung von Wissenschaftsblogs bieten.\*\***
+
+Einerseits betonten die Teilnehmenden, dass Blogs für die Sichtbarkeit und Zugänglichkeit wissenschaftlicher Inhalte relevant seien und deshalb – ähnlich wie andere Publikationsformen – in die Langzeitarchivierung einbezogen werden sollten. Andererseits hoben die Teilnehmenden hervor, dass Ressourcen, Zuständigkeiten und technische Standards bislang ungeklärt seien.
+
+Ein wiederkehrendes Spannungsfeld der Diskussion betraf die Betonung der Unabhängigkeit der Bloggenden. Viele Wissenschaftler:innen legten nach Aussagen im Workshop großen Wert darauf, unabhängig von institutionellen Vorgaben zu publizieren. Zugleich wurde von Teilnehmenden berichtet, dass manche auch die eigene Archivierung ihrer Blogs kritisch sehen und sich die Möglichkeit erhalten wollen, ihre Inhalte zu einem späteren Zeitpunkt zu löschen. Gleichzeitig wurde anerkannt, dass Langzeitarchivierung Standards, Regeln und Prozesse erfordere. Wissenschaftsblogs seien – so die Charakterisierung einer Workshop-Stimme als „Punk-Rock des Publizierens“ – spontan, unabhängig und unkonventionell, was nicht immer mit formalen Vorgaben vereinbar sei.
+
+Als Lösungsansatz brachten die Teilnehmenden unter anderem Plugins ins Gespräch, die Metadaten leicht nachnutzbar machen. Diskutiert wurde außerdem, welche Akteure für die Langzeitverfügbarkeit zuständig sein sollten: genannt wurden eine Abgabepflicht bei der DNB, Repositorien der Landesbibliotheken, Konsortien oder kooperativ getragene Infrastrukturen. Der Föderalismus wurde in diesem Zusammenhang von mehreren Stimmen als Hürde benannt. Teilnehmende sprachen sich zudem gegen eine Monopolstellung einzelner Institutionen aus und plädierten stattdessen für eine unabhängige Infrastruktur – auch für den im Wissenschaftsbetrieb üblichen Fall des Arbeitsplatzwechsels von einer zur nächsten Forschungseinrichtung. Verantwortung für die Langzeitverfügbarkeit von Wissenschaftsblogs wurde außerdem wissenschaftlichen Blogplattformen, insbesondere [Hypotheses](https://hypotheses.org/), zugeordnet. Diese sollten, so die Teilnehmenden, eine Archivierungsstrategie entwickeln, auch in Zusammenarbeit mit der Deutschen Nationabibliothek (DNB). Wer hingegen einen Blog selbst hostet, trage nach Ansicht der Teilnehmenden selbst die Verantwortung für dessen Langzeitverfügbarkeit.
+
+### These 2
+
+**\*\*Wissenschaftsblogger:innen sind dazu angehalten, sich selbst um die Einhaltung von Open-Science-Praktiken und FAIR-Prinzipien zu kümmern.\*\***
+
+Auch in diesem Themenfeld zeigten sich nach Angaben der Teilnehmenden unterschiedliche Perspektiven. Einerseits wurde anerkannt, dass ein Mindestmaß an Selbstverantwortung bei den Blogger:innen liegen sollte. Andererseits waren sich die Teilnehmenden einig, dass von einzelnen Wissenschaftler:innen kein umfassendes technisches oder informationswissenschaftliches Wissen verlangt werden könne.
+
+Die Teilnehmenden betonten, dass die Motivation vieler Blogger:innen in erster Linie darin liege, ihr Thema zugänglich zu machen und in den wissenschaftlichen Diskurs einzubringen – nicht darin, systematisch Open Science zu betreiben. Bibliotheken und Informationsinfrastrukturen könnten nach Einschätzung der Teilnehmenden hier eine wichtige Rolle übernehmen: Sie könnten Kompetenzen vermitteln, technische Rahmenbedingungen schaffen und die Einhaltung von Standards erleichtern. 
+
+Kritisch diskutierten die Teilnehmenden die Anwendbarkeit der FAIR-Prinzipien [@FAIR]. Da es sich bei Blogs nicht um Forschungsdaten handle, griffen die FAIR-Kriterien nach Aussagen im Workshop nur eingeschränkt. Zudem wiesen Teilnehmende darauf hin, dass nicht alle Blogger:innen ihre Inhalte interoperabel oder wiederverwendbar machen möchten – insbesondere im Hinblick auf die Nutzung durch Verfahren der künstlichen Intelligenz (KI). Statt starrer Anforderungen wurde deshalb vorgeschlagen, spezifische Richtlinien für Blogs zu entwickeln, etwa angelehnt an die Prinzipien der Guten Wissenschaftlicher Praxis (GWP), die auch Blogs als Publikationsorgan nennt [@GWP]. Deutlich wurde in den Beiträgen auch: Pauschale Forderungen bergen die Gefahr, bestehende Ungleichheiten auf Seiten der Bloggenden zu verstärken. Viele Wissenschaftler:innen verfügten nach Einschätzung der Teilnehmenden weder über die zeitlichen noch die technischen Ressourcen, um aufwendige Standards einzuhalten. Wichtig bleibe daher, die Autonomie der Bloggenden zu respektieren und gleichzeitig niedrigschwellige Unterstützungsangebote bereitzustellen.
+
+### Fazit
+
+Wissenschaftsblogs sind bereits heute ein wichtiger Bestandteil der offenen Wissenschaftskommunikation: Sie schaffen Sichtbarkeit, erhöhen die Zugänglichkeit und ermöglichen eine niedrigschwellige Form des wissenschaftlichen Austauschs. Gleichzeitig treten bei der institutionellen Einbettung zahlreiche offene Fragen auf, zum Beispiel nach Zuständigkeiten, Ressourcen und technischen Standards.\
+
+Weiterführende Informationen zu dem Projekt Infra Wiss Blogs finden sich unter <https://infrawissblogs.org/>. 
+
+Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer \[offiziellen website\](http://hu.berlin/infomgnt).\
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
+
+Dies ist ein \[Crosspost von infomgnt.org\](https://doi.org/10.59350/9fkvd-w2138), Lizenz: \[CC BY\](https://creativecommons.org/licenses/by/3.0/de/).
