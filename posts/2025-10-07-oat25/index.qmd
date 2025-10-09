@@ -24,7 +24,7 @@ author:
 date: "2025-10-07"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/DATE-TITLE/
+  url: https://doi.org/10.59350/d8x8h-w9j79
 image: OA25Workshop.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references_oat25.bib
