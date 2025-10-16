@@ -6,8 +6,25 @@ title-block-banner: true
 
 # Publikationen aus dem Projekt
 
-Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2024, September 20). Workshop 13: Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open Access Tage 2024 (OAT2024), Köln. Zenodo. [https://doi.org/10.5281/zenodo.13819866](https://doi.org/10.5281/zenodo.13819866)
+## Wissenschaftliche Publikationen
 
-Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. [https://doi.org/10.5281/zenodo.13234482](https://doi.org/10.5281/zenodo.13234482)
+Ochsner, C., Pampel, H., Höfting, J. & Rothfritz, L. (2025). Scholarly Blogs: An Analysis of Infrastructural Aspects Based on German Scholarly Blogs. Journal of Documentation. \[In Press\] <https://doi.org/10.1108/JD-02-2025-0053>. 
 
-Ochsner, C. (2024, Juli 23). Infra Wiss Blogs: Projektvorstellung. 10. Seminar des Instituts für Bibliotheks- und Informationswissenschaft, Humbldt-Unversität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft. Zenodo. [https://doi.org/10.5281/zenodo.12799719](https://doi.org/10.5281/zenodo.12799719)
+Ochsner, C., Pampel, H., Höfting, J. & Rothfritz, L. (2025). Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte. Bibliothek Forschungs und Praxis. \[In Press\] <https://doi.org/10.1108/JD-02-2025-0053>.
+
+## Anderer wissenschaftlicher Output
+
+Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2024, September 20). Workshop 13: Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open Access Tage 2024 (OAT2024), Köln. Zenodo. <https://doi.org/10.5281/zenodo.13819866>
+
+Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). Zenodo. <https://doi.org/10.5281/zenodo.13234482>
+
+Ochsner, C. (2024, Juli 23). Infra Wiss Blogs: Projektvorstellung. 10. Seminar des Instituts für Bibliotheks- und Informationswissenschaft, Humbldt-Unversität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft. Zenodo. <https://doi.org/10.5281/zenodo.12799719>
+
+Ochsner, C., Di Rosa, E., Fenner, M., Ködel, S., Pampel, H., Woldering,
+B., Stadtbäumer, T., Voigt, C., & Höfting, J. (2025). *Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs*. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19469>
+
+Ochsner, C., & Pampel, H. (2025d, September 21). *Wissenschaftsblogs als nachhaltiges Diamond Open Access Publikationsmedium—Herausforderungen und Perspektiven*. Open Access Tage 2025 (OAT25). <https://doi.org/10.5281/zenodo.17171081>
+
+Ochsner, C., Pampel, H., & Höfting, J. (2025). *Kartierung deutscher Wissenschaftsblogs—Ergebnisse und Impulse*. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19723>
+
+Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). *German Scholarly Blogs and their Attributes* \[Data set\]. Zenodo. <https://zenodo.org/records/14905628>
