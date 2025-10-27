@@ -10,7 +10,62 @@
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Mon, 06 Oct 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infrawissblogs.org/posts/2025-10-27-bestandsaufnahme/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wir freuen uns, verkünden zu können, dass ein englischsprachiger Artikel unserer quantitativen Studie <em>“Scholarly Blogs: an analysis of infrastructural aspects based on German scholarly blogs”</em> im <a href="https://www.emerald.com/jd"><em>Journal of Documentation</em></a> <span class="citation" data-cites="ochsner2025a">(Ochsner et al. 2025a)</span>, sowie ein deutschsprachiger Artikel der Studie in <a href="https://www.degruyterbrill.com/journal/key/bfup/html"><em>Bibliothek Forschung und Praxis</em></a> veröffentlicht wurden <span class="citation" data-cites="ochsner2025b">(Ochsner et al. 2025b)</span>.</p>
+<p><img src="https://infrawissblogs.org/posts/2025-10-27-bestandsaufnahme/jdoc.png" class="img-fluid"></p>
+<p><strong>Die Artikel finden Sie hier:</strong></p>
+<ul>
+<li><p>Ochsner, C., Pampel, H., Höfting, J., &amp; Rothfritz, L. (2025). <em>Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs.</em> <em>Journal of Documentation</em>, 81(7), 520–544. <a href="https://doi.org/10.1108/JD-02-2025-0053" class="uri">https://doi.org/10.1108/JD-02-2025-0053</a></p></li>
+<li><p>Ochsner, C., Pampel, H., Höfting, J., &amp; Rothfritz, L. (2025). <em>Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte.</em> <em>Bibliothek Forschung und Praxis.</em> <a href="https://doi.org/10.1515/bfp-2025-0028" class="uri">https://doi.org/10.1515/bfp-2025-0028</a></p></li>
+</ul>
+<p>Ziel der Studie war es, einen Überblick über die wissenschaftliche Bloglandschaft in Deutschland zu geben und dabei die Integration von Wissenschaftsblogs in digitale Informationsinfrastrukturen zu untersuchen. Dazu haben wir im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> einen Datensatz von 866 deutschen Wissenschaftsblogs erstellt und analysiert <span class="citation" data-cites="ochsner2025a">(Ochsner et al. 2025a)</span>.</p>
+<p>Die Ergebnisse der Analyse bestätigen die mangelnde Integration von Wissenschaftsblogs in bestehende digitale Informationsinfrastrukturen, zeigen jedoch auch erste Bemühungen zur Sichtbarmachung und langfristigen Zugänglichmachung der Blogs und ihrer Inhalte. Die Studie präsentiert zentrale Erkenntnisse über deutsche Wissenschaftsblogs und diskutiert Strategien, um ihre Integration in digitale Informationsinfrastrukturen zu fördern – mit Relevanz sowohl für Expert:innen aus Informationsinfrastrukturen als auch für Blogger:innen.</p>
+<p>Über Rückmeldungen zur Studie, die zur Vertiefung der Diskussion rund um Sichtbarkeit, Archivierung und infrastrukturelle Anbindung von Wissenschaftsblogs beitragen, freuen wir uns sehr.</p>
+<p>Um die Ergebnisse dieser quantitativen Studie zu vertiefen und zu erweitern, arbeiten wir aktuell an einer qualitativen Studie, in der wir Blogger:innen zum Thema Sichtbarkeit, langfristige Verfügbarkeit und Einbindung wissenschaftlicher Blogs in digitale Informationsinfrastrukturen interviewt haben, um ein tiefergehendes Verständnis für Praktiken, Herausforderungen und Bedarfe in diesem Bereich zu gewinnen.</p>
+<p>Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer [offiziellen website](http://hu.berlin/infomgnt).</p>
+<p><br>
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der [CC BY 4.0 DEED](<a href="https://creativecommons.org/licenses/by/4.0/deed.de" class="uri">https://creativecommons.org/licenses/by/4.0/deed.de</a>).</p>
+
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner2025a" class="csl-entry">
+Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025a. <span>“Scholarly Blogs: An Analysis of Infrastructural Aspects Based on <span>German</span> Scholarly Blogs.”</span> <em>Journal of Documentation</em> 81 (7): 520–44. <a href="https://doi.org/10.1108/JD-02-2025-0053">https://doi.org/10.1108/JD-02-2025-0053</a>.
+</div>
+<div id="ref-ochsner2025b" class="csl-entry">
+———. 2025b. <span>“Wissenschaftsblogs in <span>Deutschland</span>: <span>Eine</span> <span>Analyse</span> Infrastruktureller <span>Aspekte</span>.”</span> <em>Bibliothek Forschung Und Praxis</em>. <a href="https://doi.org/10.1515/bfp-2025-0028">https://doi.org/10.1515/bfp-2025-0028</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Wissenschaftsblogs Als Integraler {Bestandteil} Der
+    {Open-Access-Landschaft}},
+  date = {2025-10-27},
+  url = {https://infomgnt.org/posts/2025-10-27-bestandsaufnahme/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Wissenschaftsblogs
+Als Integraler Bestandteil Der Open-Access-Landschaft.”</span> October
+27, 2025. <a href="https://infomgnt.org/posts/2025-10-27-bestandsaufnahme/">https://infomgnt.org/posts/2025-10-27-bestandsaufnahme/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2025-10-27-bestandsaufnahme/</guid>
+  <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2025-10-27-bestandsaufnahme/jdoc.png" medium="image" type="image/png" height="195" width="144"/>
+</item>
 <item>
   <title>Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft</title>
   <dc:creator>Catharina Ochsner</dc:creator>

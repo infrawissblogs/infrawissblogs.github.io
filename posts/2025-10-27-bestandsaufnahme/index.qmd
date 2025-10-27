@@ -1,0 +1,42 @@
+---
+title: "Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft"
+author:
+- name: Catharina Ochsner
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Heinz Pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI) & Helmholtz Gemeinschaft, Helmholtz Open Science Office
+  affiliation-url: https://www.hu-berlin.de/de
+date: "2025-10-27"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2025-10-27-bestandsaufnahme/
+image: jdoc.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: jdoc.bib
+---
+
+Wir freuen uns, verkünden zu können, dass ein englischsprachiger Artikel unserer quantitativen Studie *“Scholarly Blogs: an analysis of infrastructural aspects based on German scholarly blogs”* im [*Journal of Documentation*](https://www.emerald.com/jd) [@ochsner2025a], sowie ein deutschsprachiger Artikel der Studie in [*Bibliothek Forschung und Praxis*](https://www.degruyterbrill.com/journal/key/bfup/html) veröffentlicht wurden [@ochsner2025b].
+
+![](jdoc.png)
+
+**Die Artikel finden Sie hier:**
+
+-   Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). *Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs.* *Journal of Documentation*, 81(7), 520–544. <https://doi.org/10.1108/JD-02-2025-0053>
+
+-   Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). *Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte.* *Bibliothek Forschung und Praxis.* <https://doi.org/10.1515/bfp-2025-0028>
+
+Ziel der Studie war es, einen Überblick über die wissenschaftliche Bloglandschaft in Deutschland zu geben und dabei die Integration von Wissenschaftsblogs in digitale Informationsinfrastrukturen zu untersuchen. Dazu haben wir im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts [Infra Wiss Blogs](https://infrawissblogs.org/) einen Datensatz von 866 deutschen Wissenschaftsblogs erstellt und analysiert [@ochsner2025a].
+
+Die Ergebnisse der Analyse bestätigen die mangelnde Integration von Wissenschaftsblogs in bestehende digitale Informationsinfrastrukturen, zeigen jedoch auch erste Bemühungen zur Sichtbarmachung und langfristigen Zugänglichmachung der Blogs und ihrer Inhalte. Die Studie präsentiert zentrale Erkenntnisse über deutsche Wissenschaftsblogs und diskutiert Strategien, um ihre Integration in digitale Informationsinfrastrukturen zu fördern – mit Relevanz sowohl für Expert:innen aus Informationsinfrastrukturen als auch für Blogger:innen.
+
+Über Rückmeldungen zur Studie, die zur Vertiefung der Diskussion rund um Sichtbarkeit, Archivierung und infrastrukturelle Anbindung von Wissenschaftsblogs beitragen, freuen wir uns sehr.
+
+Um die Ergebnisse dieser quantitativen Studie zu vertiefen und zu erweitern, arbeiten wir aktuell an einer qualitativen Studie, in der wir Blogger:innen zum Thema Sichtbarkeit, langfristige Verfügbarkeit und Einbindung wissenschaftlicher Blogs in digitale Informationsinfrastrukturen interviewt haben, um ein tiefergehendes Verständnis für Praktiken, Herausforderungen und Bedarfe in diesem Bereich zu gewinnen.
+
+Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer \[offiziellen website\](http://hu.berlin/infomgnt).
+
+\
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
