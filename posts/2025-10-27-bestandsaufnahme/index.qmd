@@ -12,7 +12,7 @@ author:
 date: "2025-10-27"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2025-10-27-bestandsaufnahme/
+  url: https://doi.org/10.59350/0zep3-5px78
 image: jdoc.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: jdoc.bib
