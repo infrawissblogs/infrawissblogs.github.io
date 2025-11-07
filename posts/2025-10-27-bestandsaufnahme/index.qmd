@@ -1,5 +1,5 @@
 ---
-title: "Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft"
+title: "Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte"
 author:
 - name: Catharina Ochsner
   orcid: 0009-0005-3885-3951
