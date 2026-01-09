@@ -1,0 +1,52 @@
+---
+title: "Virtuelle Diskussionsveranstaltung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs"
+author:
+- name: Catharina Ochsner
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+date: "2026-01-09"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/DATE-TITLE/
+image: Anforderungskatalog.png
+---
+
+![](Anforderungskatalog.png)
+
+**Termin:** Dienstag, 03. Februar 2026
+
+**Uhrzeit:** 10:00 - 12:00 Uhr
+
+**Ort:** online via Zoom
+
+**Bitte registrieren Sie sich unter:** <https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ>
+
+**Kontakt:** [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+**Beschreibung:** Wissenschaftsblogs sind ein wichtiger Bestandteil der wissenschaftlichen Kommunikationskultur. Blogs ermöglichen es Forscher:innen, Forschungsergebnisse und forschungsnahe Themen schnell und offen zu kommunizieren, Diskussionen anzustoßen sowie Dialoge unterhalb von Kolleg:innen und zwischen Wissenschaft und Gesellschaft zu fördern. Im Gegensatz zu traditionellen Publikationsformen (wie z.B. Zeitschriftenartikel oder Monografien) stehen Wissenschaftsblogs jedoch vor besonderen Herausforderungen in Bezug auf ihre Langzeitverfügbarkeit und Zitierfähigkeit. Inhalte können aufgrund technischer Veränderungen und fehlender Archivierungsstrategien verloren gehen. Zudem fehlt es häufig an standardisierten Verfahren, um Blogposts dauerhaft auffindbar und eindeutig zitierbar zu machen. Um diese Lücke zu schließen, wurde im Projekt [Infra Wiss Blogs](https://infrawissblogs.org/about.html) ein Anforderungskatalog für die Integration von Wissenschaftsblogs in Informationsinfrastrukturen entwickelt.
+
+Der Anforderungskatalog basiert auf den Ergebnissen einer qualitativen Interviewstudie, die im Rahmen des Projekts Infra Wiss Blogs mit Wissenschaftsblogger:innen in Deutschland durchgeführt wurde. Ziel der Studie war es, die Anforderungen von Wissenschaftsblogger:innen an eine Informationsinfrastruktur, die Wissenschaftsblogs langfristig verfügbar und zitierbar macht, zu ermitteln. Der Katalog definiert Anforderungen, die sicherstellen, dass wissenschaftliche Blogs auch langfristig als zitierfähige, überprüfbare und nachhaltige Beiträge zur wissenschaftlichen Kommunikation bestehen können.
+
+Ziel der Veranstaltung ist es, den Katalog gemeinsam mit der Community zu diskutieren und weiterzuentwickeln. Das Feedback der Teilnehmenden wird in eine anschließende Überarbeitung des Katalogs einfließen.
+
+**Den Anforderungskatalog finden Sie hier:** [Zum Anforderungskatalog](https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing)
+
+Wir freuen uns über Kommentare und Rückmeldungen **bis zum 27.02.2026**.
+
+**Programm:**
+
+| **Uhrzeit** | **Beschreibung** |
+|----|----|
+| 10:00 - 10:20 | Begrüßung und Vorstellung des Projekts Infra Wiss Blogs |
+| 10:20 - 10:40 | Vorstellung des Anforderungskatalogs |
+| 10:40 - 10:50 | Zeit für Fragen |
+| 10:50 - 11:15 | Aufteilung in Breakout Rooms, selbstständige Diskussionen |
+| 11:15 - 11:45 | Vorstellung der Ergebnisse der einzelnen Gruppen und Diskussion im Plenum |
+| 11:45 - 12:00 | Zusammenfassung und Verabschiedung |
+
+Die Veranstaltung wird auf Deutsch stattfinden. Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den [Projektblog](https://infrawissblogs.org/) sowie die [Mailingliste](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs) des Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an Catharina Ochsner via [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de).
+
+Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer [offiziellen website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

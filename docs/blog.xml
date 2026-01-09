@@ -10,7 +10,94 @@
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Sun, 26 Oct 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Virtuelle Diskussionsveranstaltung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <link>https://infrawissblogs.org/posts/2026-01-09-anforderungskatalog_diskussionsveranstaltung/anforderungskatalog_diskussionsveranstaltung.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infrawissblogs.org/posts/2026-01-09-anforderungskatalog_diskussionsveranstaltung/Anforderungskatalog.png" class="img-fluid"></p>
+<p><strong>Termin:</strong> Dienstag, 03. Februar 2026</p>
+<p><strong>Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
+<p><strong>Ort:</strong> online via Zoom</p>
+<p><strong>Bitte registrieren Sie sich unter:</strong> <a href="https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ" class="uri">https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ</a></p>
+<p><strong>Kontakt:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
+<p><strong>Beschreibung:</strong> Wissenschaftsblogs sind ein wichtiger Bestandteil der wissenschaftlichen Kommunikationskultur. Blogs ermöglichen es Forscher:innen, Forschungsergebnisse und forschungsnahe Themen schnell und offen zu kommunizieren, Diskussionen anzustoßen sowie Dialoge unterhalb von Kolleg:innen und zwischen Wissenschaft und Gesellschaft zu fördern. Im Gegensatz zu traditionellen Publikationsformen (wie z.B. Zeitschriftenartikel oder Monografien) stehen Wissenschaftsblogs jedoch vor besonderen Herausforderungen in Bezug auf ihre Langzeitverfügbarkeit und Zitierfähigkeit. Inhalte können aufgrund technischer Veränderungen und fehlender Archivierungsstrategien verloren gehen. Zudem fehlt es häufig an standardisierten Verfahren, um Blogposts dauerhaft auffindbar und eindeutig zitierbar zu machen. Um diese Lücke zu schließen, wurde im Projekt <a href="https://infrawissblogs.org/about.html">Infra Wiss Blogs</a> ein Anforderungskatalog für die Integration von Wissenschaftsblogs in Informationsinfrastrukturen entwickelt.</p>
+<p>Der Anforderungskatalog basiert auf den Ergebnissen einer qualitativen Interviewstudie, die im Rahmen des Projekts Infra Wiss Blogs mit Wissenschaftsblogger:innen in Deutschland durchgeführt wurde. Ziel der Studie war es, die Anforderungen von Wissenschaftsblogger:innen an eine Informationsinfrastruktur, die Wissenschaftsblogs langfristig verfügbar und zitierbar macht, zu ermitteln. Der Katalog definiert Anforderungen, die sicherstellen, dass wissenschaftliche Blogs auch langfristig als zitierfähige, überprüfbare und nachhaltige Beiträge zur wissenschaftlichen Kommunikation bestehen können.</p>
+<p>Ziel der Veranstaltung ist es, den Katalog gemeinsam mit der Community zu diskutieren und weiterzuentwickeln. Das Feedback der Teilnehmenden wird in eine anschließende Überarbeitung des Katalogs einfließen.</p>
+<p><strong>Den Anforderungskatalog finden Sie hier:</strong> <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">Zum Anforderungskatalog</a></p>
+<p>Wir freuen uns über Kommentare und Rückmeldungen <strong>bis zum 27.02.2026</strong>.</p>
+<p><strong>Programm:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Uhrzeit</strong></th>
+<th><strong>Beschreibung</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>10:00 - 10:20</td>
+<td>Begrüßung und Vorstellung des Projekts Infra Wiss Blogs</td>
+</tr>
+<tr class="even">
+<td>10:20 - 10:40</td>
+<td>Vorstellung des Anforderungskatalogs</td>
+</tr>
+<tr class="odd">
+<td>10:40 - 10:50</td>
+<td>Zeit für Fragen</td>
+</tr>
+<tr class="even">
+<td>10:50 - 11:15</td>
+<td>Aufteilung in Breakout Rooms, selbstständige Diskussionen</td>
+</tr>
+<tr class="odd">
+<td>11:15 - 11:45</td>
+<td>Vorstellung der Ergebnisse der einzelnen Gruppen und Diskussion im Plenum</td>
+</tr>
+<tr class="even">
+<td>11:45 - 12:00</td>
+<td>Zusammenfassung und Verabschiedung</td>
+</tr>
+</tbody>
+</table>
+<p>Die Veranstaltung wird auf Deutsch stattfinden. Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den <a href="https://infrawissblogs.org/">Projektblog</a> sowie die <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">Mailingliste</a> des Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an Catharina Ochsner via <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a>.</p>
+<p>Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina},
+  title = {Virtuelle {Diskussionsveranstaltung:} {Anforderungen} an Eine
+    Kooperative {Informationsinfrastruktur} Für Die Langfristige
+    {Verfügbarkeit} von {Wissenschaftsblogs}},
+  date = {2026-01-09},
+  url = {https://infomgnt.org/posts/DATE-TITLE/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina. 2026. <span>“Virtuelle Diskussionsveranstaltung:
+Anforderungen an Eine Kooperative Informationsinfrastruktur Für Die
+Langfristige Verfügbarkeit von Wissenschaftsblogs.”</span> January 9,
+2026. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2026-01-09-anforderungskatalog_diskussionsveranstaltung/anforderungskatalog_diskussionsveranstaltung.html</guid>
+  <pubDate>Thu, 08 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2026-01-09-anforderungskatalog_diskussionsveranstaltung/Anforderungskatalog.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
 <item>
   <title>Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte</title>
   <dc:creator>Catharina Ochsner</dc:creator>
