@@ -10,7 +10,68 @@
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Thu, 08 Jan 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Zusammenfassung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Max Liebel</dc:creator>
+  <dc:creator>Jannis Köster</dc:creator>
+  <link>https://infrawissblogs.org/posts/2026-03-03-anforderungskatalog/Anfoderungskatalog.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infrawissblogs.org/posts/2026-03-03-anforderungskatalog/Anforderungskatalog_slides.png" class="img-fluid"></p>
+<p>Wissenschaftsblogs ermöglichen es Forschenden, ihre Forschungsergebnisse und forschungsbezogene Themen schnell und offen zu kommunizieren, Diskussionen anzustoßen und den Dialog unter Kolleg:innen sowie zwischen Wissenschaftler:innen und der Gesellschaft zu fördern. Im Vergleich zu traditionellen Formen wissenschaftlicher Veröffentlichungen wie Zeitschriftenartikeln, Konferenzberichten oder Monografien sind Blogs jedoch noch nicht in digitale Forschungs- und Informationsinfrastrukturen integriert. Diese mangelnde Integration birgt das Risiko eines Informationsverlustes <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
+<p>Um diese Probleme anzugehen, wurde im Rahmen des Projekts <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> eine virtuelle Diskussionsveranstaltung Blogger:innen und Expert:innen aus Einrichtungen der Informationsinfrastruktur, organisiert. Ziel war es, den im Rahmen des Projekts entwickelten <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">Anforderungskatalog</a> für eine kooperative Informationsinfrastruktur zur langfristigen Verfügbarkeit wissenschaftlicher Blogs vorzustellen und zu diskutieren. Der Katalog basiert auf 13 qualitativen Interviews mit deutschen Wissenschaftsblogger:innen, mit denen deren Anforderungen an eine Informationsinfrastruktur zur Langzeitverfügbarkeit von Wissenschaftsblogs ermittelt werden sollten. Die Diskussion fand in zwei Runden statt. Zunächst konnten Blogger:innen und Expert:innen von Infrastrukturinstitutionen den Katalog mit ihren jeweiligen Kolleg:innen diskutieren, anschließend folgte eine Diskussion im Plenum.</p>
+<section id="bloggerinnen" class="level2">
+<h2 class="anchored" data-anchor-id="bloggerinnen">Blogger:innen</h2>
+<p>Aus der Sicht der Blogger:innen konzentrierte sich die Diskussion stark auf die Benutzer:innenfreundlichkeit, die rechtliche Klarheit und die Senkung der Hürden für die Teilnahme. Viele Teilnehmer:innen betonten den Bedarf an klareren und praktischeren Anleitungen zur Integration von Metadaten. Obwohl Metadaten allgemein als wesentlich für die Auffindbarkeit und Bewahrung anerkannt sind, fehlt es Blogger:innen oft an konkreten Anweisungen und standardisierten Vorlagen. Es gab einen starken Wunsch nach vordefinierten Metadatenschemata, klaren Erklärungen zu erforderlichen und optionalen Feldern und technischen Lösungen, wie z. B. Plugins, die Teile des Metadaten-Workflows automatisieren könnten. Die Blogger:innen baten zudem um Unterstützung bei der Anwendung von Lizenzen. Darüber hinaus wiesen die Teilnehmer:innen darauf hin, dass die Archivierung von Kommentaren eine Herausforderung darstellen würde, da die Zustimmung der Kommentierenden erforderlich wäre.</p>
+</section>
+<section id="informationsinfrastruktureinrichtungen" class="level2">
+<h2 class="anchored" data-anchor-id="informationsinfrastruktureinrichtungen">Informationsinfrastruktureinrichtungen</h2>
+<p>Die Infrastrukturexpert:innen diskutierten über technische und rechtliche Beschränkungen. Ein zentrales Thema war die Versionierung: Es ist nach wie vor unklar, wann eine Änderung an einem Blog oder einem Beitrag als neue Version gelten soll und ob die Versionierung auf der Ebene einzelner Beiträge oder ganzer Blogs erfolgen soll. Außerdem sei die Versionierung bei Blogger:innen noch keine gängige Praxis. Die Teilnehmer:innen waren sich einig, dass Feeds und Protokolle wie RSS oder ActivityPub in erster Linie als Verbreitungsinstrumente dienen und nicht für die Versionierung oder Bewahrung geeignet sind. Stattdessen sollte die Archivierung und Versionskontrolle im Backend des Blogs oder im Content-Management-System erfolgen. Rechtliche Bedenken wurden insbesondere bei Kommentaren geäußert, da die Archivierung von Inhalten vieler verschiedener Autore:innen ohne klare Lizenzen schwierig ist. In der Praxis bedeutet dies oft, dass die Autor:innen einzeln kontaktiert werden müssen, was selten skalierbar ist.</p>
+</section>
+<section id="plenum" class="level2">
+<h2 class="anchored" data-anchor-id="plenum">Plenum</h2>
+<p>In der Plenardiskussion debattierten die Teilnehmer:innen über die Rolle der Bibliotheken. Einige vertraten die Ansicht, dass Bibliotheken eine stärkere Rolle bei der Veröffentlichung übernehmen könnten, indem sie Blogs hosten, Lizenzen verwalten und Identifikatoren wie Digital Object Identifiers (DOIs) vergeben. Andere sprachen sich für eine begrenztere Rolle aus, bei der Bibliotheken die technische Infrastruktur bereitstellen und die redaktionelle Verantwortung den Blogger:innen überlassen. Es wurde auch angemerkt, dass institutionelle Bürokratie Blogger:innen oft davon abhält, institutionell gehostete Lösungen zu nutzen. Ein Teilnehmer betonte, dass die Dezentralität von Blogs bereits eine Stärke und keine Schwäche sei. Es bestehe kein Bedarf an neuen Erfindungen, sondern vielmehr ein großes Potenzial für die Wiederverwendung und Erweiterung bestehender Infrastrukturen. Abschließend waren sich die Teilnehmer:innen einig, dass die Vereinfachung von Prozessen und die Senkung von Einstiegshürden oberste Priorität haben sollten, anstatt perfekte Lösungen anzustreben.</p>
+<p>Wir werden dieses Feedback nutzen, um den Anforderungskatalog zu aktualisieren. Updates zur Veröffentlichung des überarbeiteten Katalogs werden auf Englisch auf unserem <a href="http://hu.berlin/infomgnt">Forschungsgruppen-Blog</a> und auf Deutsch auf dem <a href="https://infrawissblogs.org/">Projekt-Blog</a> veröffentlicht. Die Präsentation zu dieser Veranstaltung finden Sie <a href="https://doi.org/10.5281/zenodo.18537453">hier</a> <span class="citation" data-cites="ochsner2026">(Ochsner and Pampel 2026)</span>. Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Webseite</a></p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner2026" class="csl-entry">
+Ochsner, Catharina, and Heinz Pampel. 2026. <span>“Virtuelle <span>Diskussionsveranstaltung</span>: <span>Anforderungen</span> an Eine Kooperative <span>Informationsinfrastruktur</span> Für Die Langfristige <span>Verfügbarkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://doi.org/10.5281/zenodo.18537453">https://doi.org/10.5281/zenodo.18537453</a>.
+</div>
+<div id="ref-ochsner2025" class="csl-entry">
+Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025. <span>“Scholarly Blogs: An Analysis of Infrastructural Aspects Based on <span>German</span> Scholarly Blogs.”</span> <em>Journal of Documentation</em> 81 (7): 520–44. <a href="https://doi.org/10.1108/JD-02-2025-0053">https://doi.org/10.1108/JD-02-2025-0053</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina and Liebel, Max and Köster, Jannis},
+  title = {Zusammenfassung: {Anforderungen} an Eine Kooperative
+    {Informationsinfrastruktur} Für Die Langfristige {Verfügbarkeit} von
+    {Wissenschaftsblogs}},
+  date = {2026-03-03},
+  url = {https://infomgnt.org/posts/DATE-TITLE/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, Max Liebel, and Jannis Köster. 2026.
+<span>“Zusammenfassung: Anforderungen an Eine Kooperative
+Informationsinfrastruktur Für Die Langfristige Verfügbarkeit von
+Wissenschaftsblogs.”</span> March 3, 2026. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2026-03-03-anforderungskatalog/Anfoderungskatalog.html</guid>
+  <pubDate>Mon, 02 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2026-03-03-anforderungskatalog/Anforderungskatalog_slides.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
 <item>
   <title>Virtuelle Diskussionsveranstaltung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -83,14 +144,14 @@
     Kooperative {Informationsinfrastruktur} Für Die Langfristige
     {Verfügbarkeit} von {Wissenschaftsblogs}},
   date = {2026-01-09},
-  url = {https://infomgnt.org/posts/DATE-TITLE/},
+  url = {https://doi.org/10.59350/dzg9r-4m194},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
 Ochsner, Catharina. 2026. <span>“Virtuelle Diskussionsveranstaltung:
 Anforderungen an Eine Kooperative Informationsinfrastruktur Für Die
 Langfristige Verfügbarkeit von Wissenschaftsblogs.”</span> January 9,
-2026. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
+2026. <a href="https://doi.org/10.59350/dzg9r-4m194">https://doi.org/10.59350/dzg9r-4m194</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>

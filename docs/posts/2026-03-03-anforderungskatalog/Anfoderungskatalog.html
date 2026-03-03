@@ -7,9 +7,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Catharina Ochsner">
-<meta name="dcterms.date" content="2026-01-09">
+<meta name="author" content="Max Liebel">
+<meta name="author" content="Jannis Köster">
+<meta name="dcterms.date" content="2026-03-03">
 
-<title>Virtuelle Diskussionsveranstaltung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs – Infra Wiss Blogs</title>
+<title>Zusammenfassung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs – Infra Wiss Blogs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +24,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -129,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Virtuelle Diskussionsveranstaltung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs</h1>
+      <h1 class="title">Zusammenfassung: Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Lab Life</div>
                 <div class="quarto-category">Research</div>
@@ -138,11 +160,31 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   <div class="quarto-title-meta-author">
-    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-heading">Affiliation</div>
     
       <div class="quarto-title-meta-contents">
-      <p class="author">Catharina Ochsner <a href="https://orcid.org/0009-0005-3885-3951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author"><a href="https://infomgnt.org/members/Catharina_Ochsner/">Catharina Ochsner</a> <a href="https://orcid.org/0009-0005-3885-3951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.hu-berlin.de/de">
+              Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+              </a>
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Max_Liebel/">Max Liebel</a> <a href="https://orcid.org/0009-0002-7979-0238" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.hu-berlin.de/de">
+              Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+              </a>
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Jannis_Köster/">Jannis Köster</a> <a href="https://orcid.org/0009-0003-4704-3948" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -159,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 9, 2026</p>
+        <p class="date">March 3, 2026</p>
       </div>
     </div>
     
@@ -178,76 +220,48 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="Anforderungskatalog.png" class="img-fluid"></p>
-<p><strong>Termin:</strong> Dienstag, 03. Februar 2026</p>
-<p><strong>Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
-<p><strong>Ort:</strong> online via Zoom</p>
-<p><strong>Bitte registrieren Sie sich unter:</strong> <a href="https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ" class="uri">https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ</a></p>
-<p><strong>Kontakt:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
-<p><strong>Beschreibung:</strong> Wissenschaftsblogs sind ein wichtiger Bestandteil der wissenschaftlichen Kommunikationskultur. Blogs ermöglichen es Forscher:innen, Forschungsergebnisse und forschungsnahe Themen schnell und offen zu kommunizieren, Diskussionen anzustoßen sowie Dialoge unterhalb von Kolleg:innen und zwischen Wissenschaft und Gesellschaft zu fördern. Im Gegensatz zu traditionellen Publikationsformen (wie z.B. Zeitschriftenartikel oder Monografien) stehen Wissenschaftsblogs jedoch vor besonderen Herausforderungen in Bezug auf ihre Langzeitverfügbarkeit und Zitierfähigkeit. Inhalte können aufgrund technischer Veränderungen und fehlender Archivierungsstrategien verloren gehen. Zudem fehlt es häufig an standardisierten Verfahren, um Blogposts dauerhaft auffindbar und eindeutig zitierbar zu machen. Um diese Lücke zu schließen, wurde im Projekt <a href="https://infrawissblogs.org/about.html">Infra Wiss Blogs</a> ein Anforderungskatalog für die Integration von Wissenschaftsblogs in Informationsinfrastrukturen entwickelt.</p>
-<p>Der Anforderungskatalog basiert auf den Ergebnissen einer qualitativen Interviewstudie, die im Rahmen des Projekts Infra Wiss Blogs mit Wissenschaftsblogger:innen in Deutschland durchgeführt wurde. Ziel der Studie war es, die Anforderungen von Wissenschaftsblogger:innen an eine Informationsinfrastruktur, die Wissenschaftsblogs langfristig verfügbar und zitierbar macht, zu ermitteln. Der Katalog definiert Anforderungen, die sicherstellen, dass wissenschaftliche Blogs auch langfristig als zitierfähige, überprüfbare und nachhaltige Beiträge zur wissenschaftlichen Kommunikation bestehen können.</p>
-<p>Ziel der Veranstaltung ist es, den Katalog gemeinsam mit der Community zu diskutieren und weiterzuentwickeln. Das Feedback der Teilnehmenden wird in eine anschließende Überarbeitung des Katalogs einfließen.</p>
-<p><strong>Den Anforderungskatalog finden Sie hier:</strong> <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">Zum Anforderungskatalog</a></p>
-<p>Wir freuen uns über Kommentare und Rückmeldungen <strong>bis zum 27.02.2026</strong>.</p>
-<p><strong>Programm:</strong></p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Uhrzeit</strong></th>
-<th><strong>Beschreibung</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>10:00 - 10:20</td>
-<td>Begrüßung und Vorstellung des Projekts Infra Wiss Blogs</td>
-</tr>
-<tr class="even">
-<td>10:20 - 10:40</td>
-<td>Vorstellung des Anforderungskatalogs</td>
-</tr>
-<tr class="odd">
-<td>10:40 - 10:50</td>
-<td>Zeit für Fragen</td>
-</tr>
-<tr class="even">
-<td>10:50 - 11:15</td>
-<td>Aufteilung in Breakout Rooms, selbstständige Diskussionen</td>
-</tr>
-<tr class="odd">
-<td>11:15 - 11:45</td>
-<td>Vorstellung der Ergebnisse der einzelnen Gruppen und Diskussion im Plenum</td>
-</tr>
-<tr class="even">
-<td>11:45 - 12:00</td>
-<td>Zusammenfassung und Verabschiedung</td>
-</tr>
-</tbody>
-</table>
-<p>Die Veranstaltung wird auf Deutsch stattfinden. Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den <a href="https://infrawissblogs.org/">Projektblog</a> sowie die <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">Mailingliste</a> des Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an Catharina Ochsner via <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a>.</p>
-<p>Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen website</a>.</p>
+<p><img src="Anforderungskatalog_slides.png" class="img-fluid"></p>
+<p>Wissenschaftsblogs ermöglichen es Forschenden, ihre Forschungsergebnisse und forschungsbezogene Themen schnell und offen zu kommunizieren, Diskussionen anzustoßen und den Dialog unter Kolleg:innen sowie zwischen Wissenschaftler:innen und der Gesellschaft zu fördern. Im Vergleich zu traditionellen Formen wissenschaftlicher Veröffentlichungen wie Zeitschriftenartikeln, Konferenzberichten oder Monografien sind Blogs jedoch noch nicht in digitale Forschungs- und Informationsinfrastrukturen integriert. Diese mangelnde Integration birgt das Risiko eines Informationsverlustes <span class="citation" data-cites="ochsner2025">(<a href="#ref-ochsner2025" role="doc-biblioref">Ochsner et al. 2025</a>)</span>.</p>
+<p>Um diese Probleme anzugehen, wurde im Rahmen des Projekts <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> eine virtuelle Diskussionsveranstaltung Blogger:innen und Expert:innen aus Einrichtungen der Informationsinfrastruktur, organisiert. Ziel war es, den im Rahmen des Projekts entwickelten <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">Anforderungskatalog</a> für eine kooperative Informationsinfrastruktur zur langfristigen Verfügbarkeit wissenschaftlicher Blogs vorzustellen und zu diskutieren. Der Katalog basiert auf 13 qualitativen Interviews mit deutschen Wissenschaftsblogger:innen, mit denen deren Anforderungen an eine Informationsinfrastruktur zur Langzeitverfügbarkeit von Wissenschaftsblogs ermittelt werden sollten. Die Diskussion fand in zwei Runden statt. Zunächst konnten Blogger:innen und Expert:innen von Infrastrukturinstitutionen den Katalog mit ihren jeweiligen Kolleg:innen diskutieren, anschließend folgte eine Diskussion im Plenum.</p>
+<section id="bloggerinnen" class="level2">
+<h2 class="anchored" data-anchor-id="bloggerinnen">Blogger:innen</h2>
+<p>Aus der Sicht der Blogger:innen konzentrierte sich die Diskussion stark auf die Benutzer:innenfreundlichkeit, die rechtliche Klarheit und die Senkung der Hürden für die Teilnahme. Viele Teilnehmer:innen betonten den Bedarf an klareren und praktischeren Anleitungen zur Integration von Metadaten. Obwohl Metadaten allgemein als wesentlich für die Auffindbarkeit und Bewahrung anerkannt sind, fehlt es Blogger:innen oft an konkreten Anweisungen und standardisierten Vorlagen. Es gab einen starken Wunsch nach vordefinierten Metadatenschemata, klaren Erklärungen zu erforderlichen und optionalen Feldern und technischen Lösungen, wie z. B. Plugins, die Teile des Metadaten-Workflows automatisieren könnten. Die Blogger:innen baten zudem um Unterstützung bei der Anwendung von Lizenzen. Darüber hinaus wiesen die Teilnehmer:innen darauf hin, dass die Archivierung von Kommentaren eine Herausforderung darstellen würde, da die Zustimmung der Kommentierenden erforderlich wäre.</p>
+</section>
+<section id="informationsinfrastruktureinrichtungen" class="level2">
+<h2 class="anchored" data-anchor-id="informationsinfrastruktureinrichtungen">Informationsinfrastruktureinrichtungen</h2>
+<p>Die Infrastrukturexpert:innen diskutierten über technische und rechtliche Beschränkungen. Ein zentrales Thema war die Versionierung: Es ist nach wie vor unklar, wann eine Änderung an einem Blog oder einem Beitrag als neue Version gelten soll und ob die Versionierung auf der Ebene einzelner Beiträge oder ganzer Blogs erfolgen soll. Außerdem sei die Versionierung bei Blogger:innen noch keine gängige Praxis. Die Teilnehmer:innen waren sich einig, dass Feeds und Protokolle wie RSS oder ActivityPub in erster Linie als Verbreitungsinstrumente dienen und nicht für die Versionierung oder Bewahrung geeignet sind. Stattdessen sollte die Archivierung und Versionskontrolle im Backend des Blogs oder im Content-Management-System erfolgen. Rechtliche Bedenken wurden insbesondere bei Kommentaren geäußert, da die Archivierung von Inhalten vieler verschiedener Autore:innen ohne klare Lizenzen schwierig ist. In der Praxis bedeutet dies oft, dass die Autor:innen einzeln kontaktiert werden müssen, was selten skalierbar ist.</p>
+</section>
+<section id="plenum" class="level2">
+<h2 class="anchored" data-anchor-id="plenum">Plenum</h2>
+<p>In der Plenardiskussion debattierten die Teilnehmer:innen über die Rolle der Bibliotheken. Einige vertraten die Ansicht, dass Bibliotheken eine stärkere Rolle bei der Veröffentlichung übernehmen könnten, indem sie Blogs hosten, Lizenzen verwalten und Identifikatoren wie Digital Object Identifiers (DOIs) vergeben. Andere sprachen sich für eine begrenztere Rolle aus, bei der Bibliotheken die technische Infrastruktur bereitstellen und die redaktionelle Verantwortung den Blogger:innen überlassen. Es wurde auch angemerkt, dass institutionelle Bürokratie Blogger:innen oft davon abhält, institutionell gehostete Lösungen zu nutzen. Ein Teilnehmer betonte, dass die Dezentralität von Blogs bereits eine Stärke und keine Schwäche sei. Es bestehe kein Bedarf an neuen Erfindungen, sondern vielmehr ein großes Potenzial für die Wiederverwendung und Erweiterung bestehender Infrastrukturen. Abschließend waren sich die Teilnehmer:innen einig, dass die Vereinfachung von Prozessen und die Senkung von Einstiegshürden oberste Priorität haben sollten, anstatt perfekte Lösungen anzustreben.</p>
+<p>Wir werden dieses Feedback nutzen, um den Anforderungskatalog zu aktualisieren. Updates zur Veröffentlichung des überarbeiteten Katalogs werden auf Englisch auf unserem <a href="http://hu.berlin/infomgnt">Forschungsgruppen-Blog</a> und auf Deutsch auf dem <a href="https://infrawissblogs.org/">Projekt-Blog</a> veröffentlicht. Die Präsentation zu dieser Veranstaltung finden Sie <a href="https://doi.org/10.5281/zenodo.18537453">hier</a> <span class="citation" data-cites="ochsner2026">(<a href="#ref-ochsner2026" role="doc-biblioref">Ochsner and Pampel 2026</a>)</span>. Weitere Informationen zur Forschungsgruppe Information Management finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Webseite</a></p>
 <p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
 
 
 
-<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
-  author = {Ochsner, Catharina},
-  title = {Virtuelle {Diskussionsveranstaltung:} {Anforderungen} an Eine
-    Kooperative {Informationsinfrastruktur} Für Die Langfristige
-    {Verfügbarkeit} von {Wissenschaftsblogs}},
-  date = {2026-01-09},
-  url = {https://doi.org/10.59350/dzg9r-4m194},
+</section>
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-ochsner2026" class="csl-entry" role="listitem">
+Ochsner, Catharina, and Heinz Pampel. 2026. <span>“Virtuelle <span>Diskussionsveranstaltung</span>: <span>Anforderungen</span> an Eine Kooperative <span>Informationsinfrastruktur</span> Für Die Langfristige <span>Verfügbarkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://doi.org/10.5281/zenodo.18537453">https://doi.org/10.5281/zenodo.18537453</a>.
+</div>
+<div id="ref-ochsner2025" class="csl-entry" role="listitem">
+Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025. <span>“Scholarly Blogs: An Analysis of Infrastructural Aspects Based on <span>German</span> Scholarly Blogs.”</span> <em>Journal of Documentation</em> 81 (7): 520–44. <a href="https://doi.org/10.1108/JD-02-2025-0053">https://doi.org/10.1108/JD-02-2025-0053</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina and Liebel, Max and Köster, Jannis},
+  title = {Zusammenfassung: {Anforderungen} an Eine Kooperative
+    {Informationsinfrastruktur} Für Die Langfristige {Verfügbarkeit} von
+    {Wissenschaftsblogs}},
+  date = {2026-03-03},
+  url = {https://infomgnt.org/posts/DATE-TITLE/},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas" role="listitem">
-Ochsner, Catharina. 2026. <span>“Virtuelle Diskussionsveranstaltung:
-Anforderungen an Eine Kooperative Informationsinfrastruktur Für Die
-Langfristige Verfügbarkeit von Wissenschaftsblogs.”</span> January 9,
-2026. <a href="https://doi.org/10.59350/dzg9r-4m194">https://doi.org/10.59350/dzg9r-4m194</a>.
+Ochsner, Catharina, Max Liebel, and Jannis Köster. 2026.
+<span>“Zusammenfassung: Anforderungen an Eine Kooperative
+Informationsinfrastruktur Für Die Langfristige Verfügbarkeit von
+Wissenschaftsblogs.”</span> March 3, 2026. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

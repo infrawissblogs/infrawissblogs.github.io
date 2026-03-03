@@ -8,7 +8,7 @@ author:
 date: "2026-01-09"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/DATE-TITLE/
+  url: https://doi.org/10.59350/dzg9r-4m194
 image: Anforderungskatalog.png
 ---
 
@@ -37,7 +37,7 @@ Wir freuen uns über Kommentare und Rückmeldungen **bis zum 27.02.2026**.
 **Programm:**
 
 | **Uhrzeit** | **Beschreibung** |
-|----|----|
+|------------------------------------|------------------------------------|
 | 10:00 - 10:20 | Begrüßung und Vorstellung des Projekts Infra Wiss Blogs |
 | 10:20 - 10:40 | Vorstellung des Anforderungskatalogs |
 | 10:40 - 10:50 | Zeit für Fragen |
