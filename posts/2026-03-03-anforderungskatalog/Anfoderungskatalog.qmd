@@ -19,7 +19,7 @@ author:
 date: "2026-03-03"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/DATE-TITLE/
+  url: https://doi.org/10.59350/z7e93-1qj28
 image: Anforderungskatalog_slides.png
 bibliography: References_Anforderungskatalog.bib
 ---
