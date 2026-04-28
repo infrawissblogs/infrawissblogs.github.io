@@ -1,0 +1,52 @@
+---
+title: "Online Workshop: Verfahren der Sicherung von Wissenschaftsblogs"
+author:
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/ 
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Heinz Pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/ 
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI)
+  affiliation-url: https://www.hu-berlin.de/de
+date: "2026-04-28"
+categories: [Lab Life, Research] 
+image: IFW_praktiken.jpg
+---
+
+![](IFW_praktiken.jpg)
+
+[Foto](https://unsplash.com/de/fotos/ein-haufen-holzklotze-mit-dem-wort-blog-cfE5i6sHCFA) by [Nadiia Ganzhyi](https://unsplash.com/de/@nadiiag) from [Unsplash](https://unsplash.com/).
+
+**Termin:** Freitag, 29. Mai 2026
+
+**Uhrzeit:** 10:00 - 11:30 Uhr
+
+**Ort:** Online via Zoom
+
+**Kontakt:** [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+Im von der [Deutschen Forschungsgemeinschaft (DFG)](https://www.dfg.de/) geförderten Projekt [Infra Wiss Blogs](https://infrawissblogs.org/) entwickeln wir am Lehrstuhl [Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) des [Instituts für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de) der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/) Lösungen für die langfristige digitale Verfügbarkeit und Zugänglichmachung von Wissenschaftsblogs. Gemeinsam mit Akteur:innen aus Informationsinfrastruktureinrichtungen erarbeiten wir tragfähige Ansätze und Standards für einen nachhaltigen Umgang mit wissenschaftlichen Blogs.
+
+Im Rahmen des Projekts organisieren wir einen Online Workshop zur digitalen Erschließung und Zugänglichmachung von Wissenschaftsblogs. Ziel ist es, Expert:innen aus verschiedenen Informationsinfrastruktureinrichtungen zusammenzubringen, um bestehende Verfahren vorzustellen und gemeinsam zu diskutieren. Die Anmeldung für den Workshop ist [hier](https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJg) möglich: [https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJ](https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJg)
+
+Der Workshop wird durch drei zehnminütige Vorträge aus ausgewählten Infrastruktureinrichtungen bereichert, in denen diese ihre Praxis vorstellen. Im Anschluss an jeden Vortrag sind jeweils fünf Minuten für Fragen vorgesehen. Daran schließt sich eine gemeinsame Diskussion im Plenum an. Die Veranstaltung endet mit einem Fazit sowie einer Zusammenfassung der Ergebnisse.
+
+**Programm:**
+
+| **Uhrzeit** | **Beschreibung** |
+|-------------------|-----------------------------------------------------|
+| 10:00 - 10:15 | Begrüßung und Vorstellung des Projekts Infra Wiss Blogs |
+| 10:15 - 10:30 | Praxis am Fachinformationsdienst für internationale und interdisziplinäre Rechtsforschung von Ivo Vogel und Nihal Ariz |
+| 10:30 - 10:45 | Praxis am Fachinformationsdienst Politikwissenschaft von Regina Pfeifenberger und Michael Czolkoß-Hettwer |
+| 10:45 - 11:00 | Praxis am Deutschen Literaturarchiv Marbach von Jochen Walter |
+| 11:00 - 11:20 | Diskussion im Plenum |
+| 11:20 - 11:30 | Zusammenfassung und Verabschiedung |
+
+Die Veranstaltung wird auf Deutsch stattfinden. Weitere Details und Updates zum Workshop sowie zum Projekt Infra Wiss Blogs werden über den [Projektblog](https://infrawissblogs.org/) sowie die [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/infra-wiss-blogs?previous_action=info) des DFG-Projekts kommuniziert. Bei Rückfragen wenden Sie sich gerne an Catharina Ochsner via [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de).
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
