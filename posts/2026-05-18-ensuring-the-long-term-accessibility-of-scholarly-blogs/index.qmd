@@ -13,6 +13,8 @@ author:
   affiliation-url: https://www.hu-berlin.de/de
 date: "2026-05-18"
 categories: [Lab Life, Research] 
+citation:
+  url: https://doi.org/10.59350/h2bcj-p1v64
 image: iConf.png
 bibliography: references_iConf.bib
 ---
