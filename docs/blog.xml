@@ -10,7 +10,40 @@
 <atom:link href="https://infrawissblogs.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Kooperative Informationsinfrastruktur für wissenschaftliche Blogs</description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Mon, 27 Apr 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infrawissblogs.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wir freuen uns, Ihnen mitteilen zu können, dass unser Artikel “<a href="https://publicera.kb.se/ir/article/view/64176">Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices</a>” in <a href="https://publicera.kb.se/ir">Information Research</a> veröffentlicht wurde. Der Artikel erscheint im Rahmen des Tagungsbands der <a href="https://www.ischools.org/iconference">iConference 2026</a> die vom 29. März bis zum 2. April 2026 an der <a href="https://www.napier.ac.uk/">Edinburgh Napier University</a> unter dem Motto “Information Literacies, Authenticity and Use: The Move Towards a Digitally Enlightened Society” stattfand.</p>
+<p><img src="https://infrawissblogs.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs/iConf.png" class="img-fluid">Abbildung 1: Screenshot des Artikels „Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices“ <span class="citation" data-cites="ochsner2026">(Ochsner and Pampel 2026)</span></p>
+<p>Der Artikel befasst sich mit der Integration von Wissenschaftsblogs in digitale Forschungs- und Informationsinfrastrukturen. Auf der Grundlage von 13 halbstrukturierten Interviews haben wir die Einstellungen und Praktiken deutscher Wissenschaftsblogger:innen hinsichtlich der langfristigen Zugänglichkeit ihrer Blogs untersucht. Die Ergebnisse zeigen, dass die Teilnehmenden der langfristigen Zugänglichkeit ihrer Blogs eine hohe Bedeutung zuweisen und den Wunsch nach deren Integration in bestehende digitale Infrastrukturen äußern. Allerdings stehen Blogger:innen vor organisatorischen Herausforderungen, was zu einem unterschiedlichen Engagement bei der Archivierung führt – von der Beantragung formaler Identifikatoren wie ISSNs und DOIs bis hin zum Rückgriff auf individuelle Strategien wie lokale Backups. Wir fordern klare Richtlinien und verstärkte Unterstützung für Blogger:innen, um die langfristige Zugänglichkeit wissenschaftlicher Blogs zu erleichtern. <span class="citation" data-cites="ochsner2026">(Ochsner and Pampel 2026)</span>. Der Artikel kann <a href="https://doi.org/10.47989/ir31iConf64176">hier</a> gefunden werden:</p>
+<p>Ochsner, C., &amp; Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. Information Research an International Electronic Journal, 31(iConf), 1761–1769. https://doi.org/10.47989/ir31iConf64176</p>
+<p>Die Folien zum Vortrag auf der iConference wurden auf Zenodo veröffentlicht und sind <a href="https://doi.org/10.5281/zenodo.19607536">hier</a> auffindbar. Wir danken der iConference für die Gelegenheit, unsere Forschungsergebnisse vorzustellen, sowie den anonymen Gutachter:innen für ihr hilfreiches Feedback.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+
+<p><a href="https://www.hu-berlin.de/de/hu/impressum">Impressum</a></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-ochsner2026" class="csl-entry">
+Ochsner, Catharina, and Heinz Pampel. 2026. <span>“Ensuring the Long-Term Accessibility of Scholarly Blogs: <span>Bloggers</span>’ Attitudes and Practices.”</span> <em>Information Research an International Electronic Journal</em> 31 (iConf): 1761–69. <a href="https://doi.org/10.47989/ir31iConf64176">https://doi.org/10.47989/ir31iConf64176</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infrawissblogs.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs/</guid>
+  <pubDate>Sun, 17 May 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infrawissblogs.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs/iConf.png" medium="image" type="image/png" height="147" width="144"/>
+</item>
 <item>
   <title>Online Workshop: Verfahren der Sicherung von Wissenschaftsblogs</title>
   <dc:creator>Catharina Ochsner</dc:creator>
