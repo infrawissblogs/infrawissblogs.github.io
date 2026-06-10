@@ -14,7 +14,7 @@ author:
 date: "2026-06-10"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/DATE-TITLE/
+  url: https://doi.org/10.59350/hpa9z-han59
 image: verfahren.png
 ---
 
