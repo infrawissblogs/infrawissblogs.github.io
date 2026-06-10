@@ -39,7 +39,7 @@ Der Workshop wird durch drei zehnminütige Vorträge aus ausgewählten Infrastru
 **Programm:**
 
 | **Uhrzeit** | **Beschreibung** |
-|-------------------|-----------------------------------------------------|
+|----|----|
 | 10:00 - 10:15 | Begrüßung und Vorstellung des Projekts Infra Wiss Blogs |
 | 10:15 - 10:30 | Praxis am Fachinformationsdienst für internationale und interdisziplinäre Rechtsforschung von Ivo Vogel und Nihal Ariz |
 | 10:30 - 10:45 | Praxis am Fachinformationsdienst Politikwissenschaft von Regina Pfeifenberger und Michael Czolkoß-Hettwer |
