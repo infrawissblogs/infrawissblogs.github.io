@@ -8,6 +8,8 @@ title-block-banner: true
 
 ## Wissenschaftliche Publikationen
 
+Ochsner, C., & Pampel, H. (2026). The future of scholarly blogs: Scholarly bloggers' perspectives on long-term preservation. *Journal of the Association for Information Science and Technology*, 77(11), 1457–1473. <https://doi.org/10.1002/asi.70126>
+
 Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. *Information Research an International Electronic Journal*, *31*(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
 
 Ochsner, C., & Pampel, H. (2026). Eine Analyse infrastruktureller Aspekte deutscher Wissenschaftsblogs. In S. Schwandt, G. Viehhauser, T. Andrews, & T. Wallnig (Eds.), *Book of Abstracts—DHd 2026* (pp. 129–134). Zenodo. <https://doi.org/10.5281/zenodo.18591948>
@@ -18,7 +20,11 @@ Ochsner, C., Pampel, H., Höfting, J. & Rothfritz, L. (2025). Wissenschaftsblogs
 
 ## Anderer wissenschaftlicher Output
 
-Ochsner, C., Pampel, H., & Fenner, M. (2026, July 28). Ten simple rules for scholarly blogging. *Front Matter*. <https://doi.org/10.54900/xn57k-gyw73>
+Ochsner, C. & Pampel, H. (2026, October 28). *The future of scholarly blogs.* Information Matters. <https://informationmatters.org/2026/10/the-future-of-scholarly-blogs/>
+
+Schielke, J., Ochsner, C., & Pampel, H. (2026). Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs \[Poster\]. Open-Access-Tage 2026 (OAT26), Linz, Austria. <https://doi.org/10.5281/zenodo.23533278>
+
+Ochsner, C., Pampel, H., & Fenner, M. (2026, July 28). Ten simple rules for scholarly blogging. Upstream. <https://doi.org/10.54900/xn57k-gyw73>
 
 Ochsner, C., & Pampel, H. (2026). *Requirements for a cooperative information infrastructure for the digital preservation of scholarly blogs*. arXiv. <https://doi.org/10.48550/arXiv.2605.31117>
 
